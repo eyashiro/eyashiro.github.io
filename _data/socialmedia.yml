@@ -1,0 +1,49 @@
+- name: GitHub
+  url: http://github.com/eyashiro
+  class: icon-github
+  title: "GitHub"
+
+- name: Twitter
+  url: http://twitter.com/ErikaYashiro
+  class: icon-twitter
+  title: "Twitter / X"
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/erika-yashiro-834390162/
+  class: icon-linkedin
+  title: "LinkedIn"
+
+- name: ORCiD
+  url: https://orcid.org/0000-0002-2364-9908
+  class: icon-orcid
+  title: "ORCiD"
+
+#- name: YouTube
+#  url: http://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

@@ -1,0 +1,61 @@
+- title: Home
+  url: "/"
+  side: left
+
+#- title: Getting Started
+#  url: "/getting-started/"
+#  side: left
+
+- title: "Portfolio"
+  url: "/portfolio/"
+  side: left
+  dropdown:
+  - title: "Portfolio home"
+    url: "/portfolio/"
+  - title: "Research"
+    url: "/portfolio/research/"
+  - title: "Editing"
+    url: "/portfolio/editing/"
+  - title: "Research Operations"
+    url: "/portfolio/research-operations/"
+  - title: "Publications"
+    url: "/portfolio/publications/"
+
+
+- title: "Services"
+  url: "/services/"
+  side: left
+
+- title: "About"
+  url: "/about/info/"
+  side: left
+  dropdown:
+  - title: "Info"
+    url: "/about/info/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: left
+
+#  dropdown:
+#  - title: "Changelog"
+#    url: "/changelog/"
+#  - title: "Roadmap"
+#    url: "/roadmap/"
+
+
+
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
+
+#- title: "Search"
+#  url: "/search/"
+#  side: right
+
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right
