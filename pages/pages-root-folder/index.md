@@ -131,7 +131,8 @@ homepage: true
 
   <div class="medium-4 column">
     <img src="../images/quotation_mark.png" class="center">
-    <p>Quote</p>
+    <p style="text-align:center">"I know Erika since almost a decade, and she has been excelling in research, biology and bioinformatics at UNIL's DMF. She has experience and high standards of ethics too. Anyone who needs help from simple alignments to bioinformatics workflows & including best experimental design for complex research problems, she is sure to find solutions."</p>
+    <p style="text-align:center">Dr. Rachel Arronof<br />AGiR<br /> Hackuarium Lausanne</p>
     <br />
   </div>
 
