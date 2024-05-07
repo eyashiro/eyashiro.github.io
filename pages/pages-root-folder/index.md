@@ -131,8 +131,8 @@ homepage: true
 
   <div class="medium-4 column">
     <img src="../images/quotation_mark.png" class="center">
-    <p style="text-align:center">"I know Erika since almost a decade, and she has been excelling in research, biology and bioinformatics at UNIL's DMF. She has experience and high standards of ethics too. Anyone who needs help from simple alignments to bioinformatics workflows & including best experimental design for complex research problems, she is sure to find solutions."</p>
-    <p style="text-align:center">Dr. Rachel Arronof<br />AGiR<br /> Hackuarium Lausanne</p>
+    <p style="text-align:center">"Erika's impressive research skills were clear from our first meeting about decade ago in UNIL's DMF.  Excelling at research, biology and bioinformatics, she has not only extensive experience, but very high standards.  For anyone who needs help with their research, from simple edits or alignments to analysis workflows & including best experimental design for complex research problems, she is sure to find appropriate solutions."</p>
+    <p style="text-align:center">Dr. Rachel Arronof<br />AGiR!<br /> Hackuarium, Lausanne</p>
     <br />
   </div>
 
