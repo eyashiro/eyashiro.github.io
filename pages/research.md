@@ -5,7 +5,8 @@ title: "Scientific Research"
 #teaser: "Since years I am programming and designing #websites. I love to work with open source tools and #learn via code from others. This time I want to try to #give something back..."
 permalink: "/portfolio/research/"
 header:
-    image_fullwidth: "header_about_portfolio.jpg"
+    image: "header_about_portfolio.jpg"
+    background-color: "#F6FAAE"
 ---
 
 ### Attention: For a task-based list of my research activities, please refer to the <a href="../research-operations/index.html">Research Support and Operations</a> page.

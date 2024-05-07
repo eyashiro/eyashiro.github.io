@@ -6,7 +6,8 @@ title: "Services"
 #teaser: ""
 permalink: "/services/"
 header:
-    image_fullwidth: "header_services.jpg"
+    image: "header_services.jpg"
+    background-color: ""
 ---
 
 <style>

@@ -5,7 +5,8 @@ title: "Academic Editing"
 #teaser: "Since years I am programming and designing #websites. I love to work with open source tools and #learn via code from others. This time I want to try to #give something back..."
 permalink: "/portfolio/editing/"
 header:
-    image_fullwidth: "header_about_portfolio.jpg"
+    image: "header_about_portfolio.jpg"
+    background-color: "#F6FAAE"
 ---
 
 

@@ -5,7 +5,8 @@ title: "About"
 #teaser: ""
 permalink: "/about/info/"
 header:
-    image_fullwidth: "header_about_portfolio.jpg"
+    image: "header_about_portfolio.jpg"
+    background-color: "#F6FAAE"
 ---
 
 

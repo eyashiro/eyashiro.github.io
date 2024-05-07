@@ -5,7 +5,8 @@ title: "Portfolio: Research Support and Operations"
 #teaser: ""
 permalink: "/portfolio/research-operations/"
 header:
-    image_fullwidth: "header_about_portfolio.jpg"
+    image: "header_about_portfolio.jpg"
+    background-color: "#F6FAAE"
 ---
 
 ### Attention:

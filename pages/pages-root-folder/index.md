@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_index.jpg
+  image: header_index.jpg
+  background-color: "#fff6d4"
 widget1:
   title: "Portfolio"
   url: 'http://eyashiro.github.io/portfolio/'

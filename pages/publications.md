@@ -5,7 +5,8 @@ title: "Publications"
 #teaser: ""
 permalink: "/portfolio/publications/"
 header:
-    image_fullwidth: "pheader_publications.jpg"
+    image: "header_publications.jpg"
+    background-color: ""
 ---
 
 
