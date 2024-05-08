@@ -81,22 +81,24 @@ homepage: true
 
 <div class="mar">
 <div class="row">
-  <div class="small-2 medium-4 column">
+  <div class="small-4 medium-4 column">
     <img src="../images/unil-logo.svg" class="center">
   </div>
-  <div class="small-2 medium-4 column">
+  <div class="small-4 medium-4 column">
     <img src="../images/uzh-logo.svg" class="center">
   </div>
-  <div class="small-2 medium-4 column">
+  <div class="small-4 medium-4 column">
     <img src="../images/ucopenhagen.png" class="center">
   </div>
-  <div class="small-2 medium-4 column">
+</div>
+<div class="row">
+  <div class="small-4 medium-4 column">
     <img src="../images/SupAgro.png" class="center">
   </div>
-  <div class="small-2 medium-4 column">
+  <div class="small-4 medium-4 column">
     <img src="../images/mindrift.png" class="center">
   </div>
-  <div class="small-2 medium-4 column">
+  <div class="small-4 medium-4 column">
     <img src="../images/MogoEdit2.png" class="center">
   </div>
 </div></div>
