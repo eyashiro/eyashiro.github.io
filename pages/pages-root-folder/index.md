@@ -43,10 +43,16 @@ permalink: /index.html
 #
 homepage: true
 ---
+<style>
+.mar {
+  margin-left: 20px;
+  margin-right: 20px;
+  }
+</style>
 
 <br/>
 <br/>
-<div class="row t60">
+<div class="mar">
   <p>
   Science  is fascinating at the cutting edge of innovation.</p>
   <p>However, we always have too much to do when we want to move a project forward.</p>
@@ -70,34 +76,37 @@ homepage: true
 <br /><br />
 
 
-# Some of my clients
+<h1 class="mar">Some of my clients</h1>
 <br /><br />
+
+<div class="mar">
 <div class="row">
-  <div class="small-3 medium-4 column">
+  <div class="small-2 medium-4 column">
     <img src="../images/unil-logo.svg" class="center">
   </div>
-  <div class="small-3 medium-4 column">
+  <div class="small-2 medium-4 column">
     <img src="../images/uzh-logo.svg" class="center">
   </div>
-  <div class="small-3 medium-4 column">
+  <div class="small-2 medium-4 column">
     <img src="../images/ucopenhagen.png" class="center">
   </div>
-  <div class="small-3 medium-4 column">
+  <div class="small-2 medium-4 column">
     <img src="../images/SupAgro.png" class="center">
   </div>
-  <div class="small-3 medium-4 column">
+  <div class="small-2 medium-4 column">
     <img src="../images/mindrift.png" class="center">
   </div>
-  <div class="small-3 medium-4 column">
+  <div class="small-2 medium-4 column">
     <img src="../images/MogoEdit2.png" class="center">
   </div>
-</div>
+</div></div>
 
 <br /><br />
 
-# Testimonials
+<h1 class="mar">Testimonials</h1>
 <br />
 
+<div class="mar">
 <div class="row">
   <div class="medium-4 column">
     <img src="../images/quotation_mark.png" class="center">
@@ -132,7 +141,7 @@ homepage: true
   <div class="medium-4 column">
     <img src="../images/quotation_mark.png" class="center">
     <p style="text-align:center">"Erika's impressive research skills were clear from our first meeting about decade ago in UNIL's DMF.  Excelling at research, biology and bioinformatics, she has not only extensive experience, but very high standards.  For anyone who needs help with their research, from simple edits or alignments to analysis workflows & including best experimental design for complex research problems, she is sure to find appropriate solutions."</p>
-    <p style="text-align:center">Dr. Rachel Arronof<br />AGiR!<br /> Hackuarium, Lausanne</p>
+    <p style="text-align:center">Dr. Rachel Aronoff<br />AGiR! &<br /> Hackuarium, Lausanne</p>
     <br />
   </div>
 
@@ -141,4 +150,5 @@ homepage: true
     <p>Quote</p>
     <br />
   </div>
+</div>
 </div>
