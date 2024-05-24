@@ -68,7 +68,7 @@ homepage: true
 
   <p>I have over 20 years of experience in the life sciences. Over the last decade, I have been focusing on bioinformatics/computational biology and on providing services to scientists that help improve their productivity and output. Given that my earlier years were spent mostly in the field and the wet lab, I am very good at understanding the link between the data that I analyze and their biology. </p>
 
-  <p><a href="../contact/index. html">Contact me</a> me when you are ready to discuss the specifics of your needs. Also, discuss with me if the services I describe on my website don't quite fit your specific needs.</p>
+  <p><a href="../contact/index.html">Contact me</a> me when you are ready to discuss the specifics of your needs. Also, discuss with me if the services I describe on my website don't quite fit your specific needs.</p>
 
   <p>I look very much forward to working with you!</p>
 </div>
@@ -149,7 +149,10 @@ homepage: true
 
   <div class="medium-4 column">
     <img src="../images/quotation_mark.png" class="center">
-    <p>Quote</p>
+    <p style="text-align:center">"Dear Erika, <br />
+    I wanted to highlight the hard work you've put into Dialogue Generate project on Mindrift. You've really gone the extra mile to undertand complex instuctions that have been frequently updated and followed them perfectly. The original content of exellent quality was made possible by your high level of professionalism and creativity. We work in a very fast paced environment, which is why I'm even more impressed by you showing great values and helping your colleagues.<br />
+    I wish you every success in your endeavours and hope to work together in the future!"</p>
+    <p style="text-align:center">Natalia Polushina, PhD<br /> Team lead of Biology domain, Mindrift</p>
     <br />
   </div>
 </div>

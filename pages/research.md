@@ -11,7 +11,13 @@ header:
 
 ### Attention: For a task-based list of my research activities, please refer to the <a href="../research-operations/index.html">Research Support and Operations</a> page.
 
-## Analysis Pipelines
+## Contents
+* [Analysis pipelines](#analysis-pipelines)
+* [Microbial biogeography in the Western Swiss Alps](#microbial-biogeography-in-the-western-swiss-alps)
+* [Differences in the diversity of mycobiomes associated with wheat processing and domestic environments](#differences-in-the-diversity-of-mycobiomes-associated-with-wheat-processing-and-domestic-environments)
+* [Fly population bottlenecks constrain the gut microbiome diversity and host genetic variation](#fly-population-bottlenecks-constrain-the-gut-microbiome-diversity-and-host-genetic-variation)
+
+## Analysis pipelines
 ### Amplicon Processing Pipeline (AmpProc)
 <a href="https://github.com/eyashiro/AmpPro">https://github.com/eyashiro/AmpProc</a>
 
@@ -23,12 +29,12 @@ AmpProc is a custom and automated pipeline that processes raw Illumina amplicon 
 EmBIRD can demultiplex amplicon Illumina DNA reads that have embedded dual barcodes and linker DNA upstream of the forward and reverse primer regions.
 
 <br /><br />
-<p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
+<p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~</font></p>
 <br /><br />
 
 ## Research Topics
 
-## Microbial Biogeography in the western Swiss Alps
+## Microbial biogeography in the Western Swiss Alps
 
 **Yashiro, E.**, Pinto-Figueroa, E., Buri, A., Spangenberg, J., Adatte, T., Niculita-Hirzel, H., Guisan, A., van der Meer, J.R. (2016) Local Environmental Factors Drive Divergent Grassland Soil Bacterial Communities in the Western Swiss Alps. Applied and Environmental Microbiology 82(21): 6303-6316 <a href="https://doi.org/10.1128/AEM.01170-16">https://doi.org/10.1128/AEM.01170-16</a>
 
@@ -64,12 +70,12 @@ EmBIRD can demultiplex amplicon Illumina DNA reads that have embedded dual barco
 **Figure 5.** Dependence of bacterial OTU and plant species correlations within the respective correlation network clusters on underlying environmental variables. (A,B) Spearman correlations between plant species (green circles) and bacterial OTUs (purple) with soil pH or elevation. (C) Spearman correlations of plant-bacteria (magenta) and plant-plant (cyan) associations. (D) Partial Spearman correlations of (C) after removing the effect of soil pH and elevation. The red lines point to the thresholds, above or below which correlations are depicted in the earlier network.
 
 <br /><br />
-<p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
+<p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~</font></p>
 <br /><br />
 
-## Fungal communities and opportunistic pathogens that wheat processing works are exposed to along the what processing pipeline
+## Differences in the diversity of mycobiomes associated with wheat processing and domestic environments
 
-**Yashiro, E.**, Savova-Bianchi D., Niculita-Hirzel, H. (2019) Major Differences in the Diversity of Mycobiomes Associated with Wheat Processing and Domestic Environments: Significant Findings from High-Throughput Sequencing of Fungal Barcode ITS1 International Journal of Environmental Research and Public Health 16(13): 2335 <a href="https://doi.org/10.3390/ijerph16132335">https://doi.org/10.3390/ijerph16132335</a>
+**Yashiro, E.**, Savova-Bianchi D., Niculita-Hirzel, H. (2019) Major Differences in the Diversity of Mycobiomes Associated with Wheat Processing and Domestic Environments: Significant Findings from High-Throughput Sequencing of Fungal Barcode ITS1. International Journal of Environmental Research and Public Health 16(13): 2335 <a href="https://doi.org/10.3390/ijerph16132335">https://doi.org/10.3390/ijerph16132335</a>
 
 **The fungal richness remained generally similar for the respective occupation groups during both periods of low and high exposure to dust.**
 
@@ -96,7 +102,7 @@ EmBIRD can demultiplex amplicon Illumina DNA reads that have embedded dual barco
 **Figure 4.** Heatmap illustrating the presence-absence of fungi of clinical importance as a functino of worker occupation and period of exposure to wheat dust. The colors and cell values indicate the proportion of samples in which the fungal species were detected.
 
 <br /><br />
-<p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
+<p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~</font></p>
 <br /><br />
 
 ## Fly population bottlenecks constrain the gut microbiome diversity and host genetic variation
