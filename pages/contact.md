@@ -5,6 +5,10 @@ meta_title          : "Contact"
 subheadline         :
 teaser              :
 permalink           : "/contact/"
+header:
+  background-color: "#fff6d4"
+  image: "logo.png"
+
 ---
 
 ### Erika Yashiro, Ph.D.
