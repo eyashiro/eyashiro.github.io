@@ -9,13 +9,20 @@ header:
     background-color: "#F6FAAE"
 ---
 
-### Attention: For a task-based list of my research activities, please refer to the <a href="../research-operations/index.html">Research Support and Operations</a> page.
+
+Here is a list of work I have done that is publicly accessible (e.g. gold open access) or unpublished work that I have prepared specifically for my portfolio webpage. I am regularly updating this page with more content, so please feel free to drop by every once in a while to get the most up-to-date presentation of my research experiences.
+
+My <a href="../publications.html">full publications list</a> includes the publications behind pay walls and where I was supervising, consulting, and/or providing text-based content.
+
+**Attention:** For a task-based list of my research activities, please refer to the <a href="../research-operations/index.html">Research Support and Operations</a> page.
+
 
 ## Contents
 * [Analysis pipelines](#analysis-pipelines)
 * [Microbial biogeography in the Western Swiss Alps](#microbial-biogeography-in-the-western-swiss-alps)
 * [Differences in the diversity of mycobiomes associated with wheat processing and domestic environments](#differences-in-the-diversity-of-mycobiomes-associated-with-wheat-processing-and-domestic-environments)
 * [Fly population bottlenecks constrain the gut microbiome diversity and host genetic variation](#fly-population-bottlenecks-constrain-the-gut-microbiome-diversity-and-host-genetic-variation)
+
 
 ## Analysis pipelines
 ### Amplicon Processing Pipeline (AmpProc)
@@ -39,6 +46,8 @@ EmBIRD can demultiplex amplicon Illumina DNA reads that have embedded dual barco
 **Yashiro, E.**, Pinto-Figueroa, E., Buri, A., Spangenberg, J., Adatte, T., Niculita-Hirzel, H., Guisan, A., van der Meer, J.R. (2016) Local Environmental Factors Drive Divergent Grassland Soil Bacterial Communities in the Western Swiss Alps. Applied and Environmental Microbiology 82(21): 6303-6316 <a href="https://doi.org/10.1128/AEM.01170-16">https://doi.org/10.1128/AEM.01170-16</a>
 
 **Yashiro, E.**, Pinto-Figueroa, E., Buri, A., Spangenberg, J.E., Adatte, T., Niculita-Hirzel, H., Guisan, A., van der Meer, J.R. (2018) Meta-scale mountain grassland observations uncover commonalities as well as specific interactions among plant and non-rhizosphere soil bacterial communities. Scientific Reports 8:5757 <a href="https://doi.org/10.1038/s41598-018-24253-x">https://doi.org/10.1038/s41598-018-24253-x</a>
+
+Check out the other papers in the series in <a href="../publications/index.html">my publication list </a>.
 
 <br />
 <br />
@@ -133,3 +142,6 @@ Note: Shared first authorship
 <img src="https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1010206.g006">
 
 **Figure 4.** Co-abundance networks of the fly microbiomes. The nodes are individual ASVs and the host fitness traits., while edges represent Spearman correlations. The network containing lines from all the fly groups (A and B), the outbred (C), high (D) and low (E) genetic variation groups are shown. The node sizes in A, C, D, and E
+
+
+
