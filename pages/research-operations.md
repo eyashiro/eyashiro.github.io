@@ -68,7 +68,7 @@ Visit my <a href="https://www.linkedin.com/in/erika-yashiro-834390162/">LinkedIN
 2017
 
 * Bioinformatic pipeline development for virus detection in metagenomes.
-* Analyze the effect of diet on canine gut microbiomes
+* Analyze the effect of diet on animal gut microbiomes
 
 <br />
 
