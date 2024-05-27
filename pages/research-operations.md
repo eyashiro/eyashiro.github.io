@@ -69,3 +69,15 @@ Visit my <a href="https://www.linkedin.com/in/erika-yashiro-834390162/">LinkedIN
 
 * Bioinformatic pipeline development for virus detection in metagenomes.
 * Analyze the effect of diet on canine gut microbiomes
+
+<br />
+
+## Laboratory Research Technician
+#### Cornell University, Department of Microbiology
+#### Ithaca, NY, United States
+2002-2005
+
+* Managed lab supplies and lab safety
+* Negotiated with vendors to obtain attractive prices for large equipment
+* Supervised lab assistants (hiring, onboarding, timesheet approval, supervision of lab helpers)
+* Provided research support within the research group.
