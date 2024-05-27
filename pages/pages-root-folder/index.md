@@ -53,22 +53,17 @@ homepage: true
 <br/>
 <br/>
 <div class="mar">
-  <p>
-  Science  is fascinating at the cutting edge of innovation.</p>
-  <p>However, we always have too much to do when we want to move a project forward.</p>
+
+  <p>With more than 20 years of experience in life science research and research support, including over a decade focused on bioinformatics and computational biology, I offer services to scientists that help improve their productivity and output. My early career in the field and wet lab equips me with a profound understanding of the biological context behind the data I analyze.</p>
 
   <p>
-  You many be in one of these situations: </p>
+  <a href="../contact/index.html">Contact me</a> to discuss the specifics of your needs and/or if you many be in one of these situations: </p>
   <p>
-  &#10132; You don't have enough staff to delegate work to. <br />
+  &#10132; You need additional staff to delegate work to. <br />
   &#10132; Your staff leaves before finishing projects. <br />
   &#10132; You are starting a new project that requires a particular expertise. <br />
   &#10132; You want the maximum impact from your written work. <br />
   &#10132; You are overwhelmed by tasks like submitting sequences to Genbank, polishing user guides, data entry, bio software installations, etc.</p>
-
-  <p>I have over 20 years of experience in the life sciences. Over the last decade, I have been focusing on bioinformatics/computational biology and on providing services to scientists that help improve their productivity and output. Given that my earlier years were spent mostly in the field and the wet lab, I am very good at understanding the link between the data that I analyze and their biology. </p>
-
-  <p><a href="../contact/index.html">Contact me</a> me when you are ready to discuss the specifics of your needs. Also, discuss with me if the services I describe on my website don't quite fit your specific needs.</p>
 
   <p>I look very much forward to working with you!</p>
 </div>
