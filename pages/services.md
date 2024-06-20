@@ -17,6 +17,30 @@ header:
   text-align:left;
   border-radius:15px;
   }
+
+
+          .calculator {
+            font-family: Arial, sans-serif;
+            max-width: 400px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: #f9f9f9;
+        }
+        .calculator label, .calculator input, .calculator select, .calculator button {
+            display: block;
+            width: 100%;
+            margin: 10px 0;
+            font-size: 1em;
+        }
+        .calculator .result {
+            margin-top: 20px;
+            font-size: 1.2em;
+            font-weight: bold;
+            text-align: center;
+        }
 </style>
 
 <br />
@@ -198,14 +222,64 @@ I can work with many types of documents covering the life sciences:
 ### Levels of editing
 I provide two levels of editing, depending on the needs of your document.
   * **Standard Editing:** I will check for linguistic mistakes, formatting and style, consistency, and the flow within sentences.
-  * **Substantive Editing:** In addition to everything in Standard Editing, I will check the quality of the flow throughout the manuscript, check for missing information and misplaced information, and point out any scientific issues I encounter.
+  * **Substantive Editing:** In addition to everything in Standard Editing, I will also do a more in-depth editing work, including improvements in word usage and sentence structure. I will also check the quality of the flow throughout the manuscript, check for missing information and misplaced information, and point out any scientific issues I encounter.
 
 ### Pricing
 
-|   Editing level  |     Price     |
+|   Editing level  |     Price*     |
 |------------------|:-------------:|
 | Standard editing | 0.06 eur/word |
 | Substantive editing | 0.09 eur/word |
-| Editing top-up of documents <br />requiring a substantial amount of corrections\* | +0.02 eur/word |
+| Editing top-up of documents requiring <br />a substantial amount of corrections\*\* | +0.02 eur/word |
 
-\* The word rate will be determined upon inspection of the document's writing quality. The top-up is to account for the extra time I will need to correct a very poorly written document. It is my experience that most documents are polished enough when handed to me that the top-up is not required.
+\* The price excludes VAT. Businesses within Germany will be charged a 19% VAT. Businesses within the EU will be reverse charge. Businesses outside of the EU will be responsible for their own VAT. Individuals not affiliated with a business will be charged the German 19% VAT.
+
+\*\* The word rate will be determined upon inspection of the document's writing quality. The top-up is to account for the extra time I will need to correct a very poorly written document. It is my experience that most documents are polished enough when handed to me that the top-up is not required.
+
+<div class="calculator">
+    <h2>Document price Calculator</h2>
+    <label for="option">Select editing level:</label>
+    <select id="option">
+        <option value="0.06">Standard - 0.06 eur per word</option>
+        <option value="0.09">Substantive - 0.09 eur per word</option>
+        <option value="0.08">Standard + top-up - 0.08 eur per word</option>
+        <option value="0.11"> Substantive + top-up - 0.11 eur per word</option>
+    </select>
+
+   <label for="wordCount">Number of Words in your document:</label>
+    <input type="number" id="wordCount" placeholder="Enter number of words">
+     <button onclick="calculatePrice()">Calculate Price</button>
+
+   <div class="result" id="result"></div>
+</div>
+
+<script>
+    function calculatePrice() {
+        const option = document.getElementById('option').value;
+        const wordCount = document.getElementById('wordCount').value;
+        const price = option * wordCount;
+        document.getElementById('result').innerText = `Total Price: ${price.toFixed(2)} eur`;
+    }
+</script>
+
+
+<!-- EXCHANGERATES.ORG.UK Euros to Dollars CURRENCY CONVERSION START -->
+<div style="width:148px;margin:0 auto;padding:0;border:1px solid #2D6AB4;background:#F0F0F0;">
+<div style="width:148px;text-align:center;padding:2px 0px;background:#2D6AB4;font-family:arial;font-size:11px;color:#FFFFFF;font-weight:bold;vertical-align:middle;">
+	<a rel="nofollow" style="color:#FFFFFF;text-decoration:none;text-transform:uppercase;">Euros to Dollars</a>
+</div>
+<div style="padding:10px;">
+<script type="text/javascript">
+var dcf = 'EUR';
+var dct = 'USD';
+var da = '0.06';
+var mc = '2D6AB4';
+var mbg = 'F0F0F0';
+var tc = 'FFFFFF';
+var f = 'arial';
+var fc = '000000';
+var tz = '1';
+
+</script><script type="text/javascript" src="https://www.currency.me.uk/remote/ER-CCPAIR-1.php"></script></div></div>
+<!-- EXCHANGERATES.ORG.UK Euros to Dollars CURRENCY CONVERSION END -->
+
