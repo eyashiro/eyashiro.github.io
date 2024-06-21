@@ -18,29 +18,25 @@ header:
   border-radius:15px;
   }
 
-
-          .calculator {
-            font-family: Arial, sans-serif;
+        .calculator {
             max-width: 400px;
-            margin: 20px auto;
-            padding: 20px;
+            margin: 0 auto;
+            padding: 1em;
             border: 1px solid #ccc;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            background-color: #f9f9f9;
+            border-radius: 1em;
         }
-        .calculator label, .calculator input, .calculator select, .calculator button {
-            display: block;
-            width: 100%;
-            margin: 10px 0;
-            font-size: 1em;
-        }
-        .calculator .result {
-            margin-top: 20px;
-            font-size: 1.2em;
-            font-weight: bold;
+        .calculator h2 {
             text-align: center;
         }
+        .result {
+            margin-top: 1em;
+            text-align: center;
+            font-weight: bold;
+        }
+        button {
+          margin:auto;
+          display:block;
+          }
 </style>
 
 <br />
@@ -236,32 +232,47 @@ I provide two levels of editing, depending on the needs of your document.
 
 \*\* The word rate will be determined upon inspection of the document's writing quality. The top-up is to account for the extra time I will need to correct a very poorly written document. It is my experience that most documents are polished enough when handed to me that the top-up is not required.
 
+<script>
+    function calculatePrice() {
+        const wordCount = document.getElementById('wordCount').value;
+        const options = document.getElementsByName('option');
+        let pricePerWord = 0;
+        for (const option of options) {
+            if (option.checked) {
+                pricePerWord = parseFloat(option.value);
+                break;
+            }
+        }
+        const totalPrice = wordCount * pricePerWord;
+        document.getElementById('result').textContent = `Total Price: €${totalPrice.toFixed(2)}`;
+    }
+</script>
 <div class="calculator">
-    <h2>Document price Calculator</h2>
-    <label for="option">Select editing level:</label>
-    <select id="option">
-        <option value="0.06">Standard - 0.06 eur per word</option>
-        <option value="0.09">Substantive - 0.09 eur per word</option>
-        <option value="0.08">Standard + top-up - 0.08 eur per word</option>
-        <option value="0.11"> Substantive + top-up - 0.11 eur per word</option>
-    </select>
-
+    <h2>Document Price Calculator</h2>
+    <br />
+    <div>Select editing level:</div>
+    <br />
+    <div>
+            <input type="radio" name="option" value="0.06" checked />
+            <span> &nbsp; Standard: &nbsp; 0.06 eur/word</span> <br />
+            <input type="radio" name="option" value="0.09" />
+            <span>&nbsp; Substantive: &nbsp; 0.09 eur/word</span> <br />
+            <input type="radio" name="option" value="0.08" />
+            <span>&nbsp; Standard + top-up: &nbsp; 0.08 eur/word</span> <br />
+            <input type="radio" name="option" value="0.11" />
+            <span>&nbsp; Substantive + top-up: &nbsp; 0.11 eur/word</span> <br />
+    </div>
+   <br />
    <label for="wordCount">Number of Words in your document:</label>
-    <input type="number" id="wordCount" placeholder="Enter number of words">
-     <button onclick="calculatePrice()">Calculate Price</button>
+   <input type="number" id="wordCount" placeholder="Enter number of words">
+   <div>
+   <button onclick="calculatePrice()">Calculate Price</button></div>
 
    <div class="result" id="result"></div>
 </div>
 
-<script>
-    function calculatePrice() {
-        const option = document.getElementById('option').value;
-        const wordCount = document.getElementById('wordCount').value;
-        const price = option * wordCount;
-        document.getElementById('result').innerText = `Total Price: ${price.toFixed(2)} eur`;
-    }
-</script>
-
+<br />
+<br />
 
 <!-- EXCHANGERATES.ORG.UK Euros to Dollars CURRENCY CONVERSION START -->
 <div style="width:148px;margin:0 auto;padding:0;border:1px solid #2D6AB4;background:#F0F0F0;">
