@@ -294,3 +294,7 @@ var tz = '1';
 </script><script type="text/javascript" src="https://www.currency.me.uk/remote/ER-CCPAIR-1.php"></script></div></div>
 <!-- EXCHANGERATES.ORG.UK Euros to Dollars CURRENCY CONVERSION END -->
 
+<div style="text-align:center">
+<script src="https://cdn.logwork.com/widget/currency_converter.js"></script>
+<a href="https://logwork.com/free-currency-converter-calculator" class="currency_convertor" data-currencies="EUR,USD,JPY,GBP,CNY,INR">Currency Converter</a>
+</div>
