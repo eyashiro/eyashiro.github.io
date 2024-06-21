@@ -274,26 +274,6 @@ I provide two levels of editing, depending on the needs of your document.
 <br />
 <br />
 
-<!-- EXCHANGERATES.ORG.UK Euros to Dollars CURRENCY CONVERSION START -->
-<div style="width:148px;margin:0 auto;padding:0;border:1px solid #2D6AB4;background:#F0F0F0;">
-<div style="width:148px;text-align:center;padding:2px 0px;background:#2D6AB4;font-family:arial;font-size:11px;color:#FFFFFF;font-weight:bold;vertical-align:middle;">
-	<a rel="nofollow" style="color:#FFFFFF;text-decoration:none;text-transform:uppercase;">Euros to Dollars</a>
-</div>
-<div style="padding:10px;">
-<script type="text/javascript">
-var dcf = 'EUR';
-var dct = 'USD';
-var da = '0.06';
-var mc = '2D6AB4';
-var mbg = 'F0F0F0';
-var tc = 'FFFFFF';
-var f = 'arial';
-var fc = '000000';
-var tz = '1';
-
-</script><script type="text/javascript" src="https://www.currency.me.uk/remote/ER-CCPAIR-1.php"></script></div></div>
-<!-- EXCHANGERATES.ORG.UK Euros to Dollars CURRENCY CONVERSION END -->
-
 <div style="text-align:center">
 <script src="https://cdn.logwork.com/widget/currency_converter.js"></script>
 <a href="https://logwork.com/free-currency-converter-calculator" class="currency_convertor" data-currencies="EUR,USD,JPY,GBP,CNY,INR">Currency Converter</a>
