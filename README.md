@@ -1,3 +1,6 @@
+## Hello! If you arrived at this repository page instead of my main professional website, please go to: [https://eyashiro.github.io][9]
+
+<br /><br />
 
 ## This website was based on the *Feeling Responsive* Jekyll theme
 
@@ -44,5 +47,5 @@ Feeling Responsive is heavily customizable.
  [6]: https://phlow.github.io/feeling-responsive/changelog/
  [7]: http://phlow.github.io/feeling-responsive/
  [8]: http://phlow.github.io/simplicity/
- [9]: #
+ [9]: https://eyashiro.github.io/
  [10]: #
