@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Portfolio: Research Support and Operations"
+title: "Portfolio: Research Support, Operations and other services"
 #subheadline: ""
 #teaser: ""
 permalink: "/portfolio/research-operations/"
@@ -10,12 +10,45 @@ header:
 ---
 
 ### Attention:
-To view my research activities, please refer to my <a href="../research/index.html">Scientific Research</a> page and <a href="../publications/index.html">Publications</a> list.
-
-Visit my <a href="https://www.linkedin.com/in/erika-yashiro-834390162/">LinkedIN</a> page for a full list of my experiences.
+Research activities are on the <a href="../research/index.html">Scientific Research</a> page and <a href="../publications/index.html">Publications</a> list.
+Editing and proofreading activites are listed <a href="../editing/index.html">here</a>.
 
 
 ## Freelance Life Scientist / Independent Contractor
+
+### Academic clients
+<div class="mar">
+<div class="row">
+  <div class="small-4 medium-4 column">
+    <img src="../../images/unil-logo.svg" class="center">
+  </div>
+  <div class="small-4 medium-4 column">
+    <img src="../../images/SupAgro.png" class="center">
+  </div>
+  <div class="small-4 medium-4 column">
+    <img src="../../images/Universitat_de_Barcelona.png" class="center">
+  </div>
+</div>
+</div>
+
+
+### Commercial clients
+<div class="mar">
+<div class="row">
+  <div class="small-4 medium-4 column">
+    <img src="../../images/mindrift.png" class="center">
+  </div>
+  <div class="small-4 medium-4 column">
+    <img src="../../images/bytecookie.jpeg" class="center">
+  </div>
+  <div class="small-4 medium-4 column">
+    <img src="" class="center">
+  </div>
+</div>
+</div>
+
+<br />
+
 #### Dortmund, Germany
 2023-present
 
@@ -29,13 +62,14 @@ Visit my <a href="https://www.linkedin.com/in/erika-yashiro-834390162/">LinkedIN
 
 #### Task-based Support
 * NGS data management and archiving
+* Data entry
 * Wrote scripts to automate data processing and analysis workflows
 * Wrote protocols
 * Negotiated with vendors and obtained attractive price offers for lab equipment and consumables.
 * Edited and proofread manuscripts, cover letters, and reports. For substantive edits, I also provide more in-depth suggestions on the science.
 
-
-
+<br />
+# Past employment in research support
 ## Staff Scientist in NGS and Bioinformatics
 #### Aalborg University, Department of Chemistry and Bioscience
 #### Aalborg, Denmark
