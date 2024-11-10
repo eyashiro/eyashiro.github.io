@@ -66,7 +66,7 @@ Editing and proofreading activites are listed <a href="../editing/index.html">he
 * Wrote scripts to automate data processing and analysis workflows
 * Wrote protocols
 * Negotiated with vendors and obtained attractive price offers for lab equipment and consumables.
-* Edited and proofread manuscripts, cover letters, and reports. For substantive edits, I also provide more in-depth suggestions on the science.
+* <a href="../editing/index.html">Edited and proofread</a> manuscripts, cover letters, thesis, and website. For substantive edits, I also provided more in-depth suggestions on the science.
 
 <br />
 # Past employment in research support
