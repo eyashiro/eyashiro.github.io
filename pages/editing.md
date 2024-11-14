@@ -55,7 +55,7 @@ I work with both *private clients* and *commercial clients*.
 <div class="row">
   <div class="medium-4 column">
     <img src="../../images/quotation_mark.png" class="center">
-    <p style="text-align:center">""Erika did an excellent job proofreading my manuscript- the work included copy editing, grammar, sentence structure, and simplification of the text. I'm very happy with the improved text, which reads much better now. She is an experienced proofreader and you can tell that she has been working for editing companies in the past. The job was completed ahead of time, and communication during the job was always prompt." "</p>
+    <p style="text-align:center">"Erika did an excellent job proofreading my manuscript- the work included copy editing, grammar, sentence structure, and simplification of the text. I'm very happy with the improved text, which reads much better now. She is an experienced proofreader and you can tell that she has been working for editing companies in the past. The job was completed ahead of time, and communication during the job was always prompt."</p>
     <p style="text-align:center">Upwork client <br /> </p>
     <br />
   </div>
