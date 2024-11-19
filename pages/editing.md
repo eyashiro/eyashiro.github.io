@@ -62,8 +62,8 @@ I work with both *private clients* and *commercial clients*.
 
   <div class="medium-4 column">
     <img src="../../images/quotation_mark.png" class="center">
-    <p style="text-align:center"></p>
-    <p style="text-align:center"><br /></p>
+    <p style="text-align:center">"We had an urgent need for a PhD thesis to be proofread due to very tight timeline. Erika came through with this project and delivered in time. I am very happy with her work and wholeheartedly recommend her."</p>
+    <p style="text-align:center">Prof. Saer Samanipour<br />University of Amsterdam</p>
     <br />
   </div>
 
