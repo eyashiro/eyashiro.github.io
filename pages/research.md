@@ -12,7 +12,7 @@ header:
 
 Here is a list of work I have done that is publicly accessible (e.g. gold open access) or unpublished work that I have prepared specifically for my portfolio webpage. I am regularly updating this page with more content, so please feel free to drop by every once in a while to get the most up-to-date presentation of my research experiences.
 
-My <a href="../publications.html">full publications list</a> includes the publications behind pay walls and where I was supervising, consulting, and/or providing text-based content.
+My <a href="../publications/index.html">full publications list</a> includes the publications behind pay walls and where I was supervising, consulting, and/or providing text-based content.
 
 **Attention:** For a task-based list of my research activities, please refer to the <a href="../research-operations/index.html">Research Support and Operations</a> page.
 
