@@ -11,6 +11,9 @@ header:
 
 ## Teaching
 
+Tutored on technical topics in biology and bioinformatics, Upwork \
+2024-
+
 Bio servers usage crash course (2-3 hrs. for all new users, 2-4x per year), Aalborg U. \
 2019-2021
 

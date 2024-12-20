@@ -17,6 +17,11 @@ header:
 
 <br />
 <br />
+Thank you for visiting my portfolio page! I've organized the different types of experience I've accumulated over the years into a few different pages that you can access below.
+
+A chronological summary of my professional journey, including my education and career path, is available on <a href="https://www.linkedin.com/in/erika-yashiro-834390162/">my LinkedIn page</a>.
+<br />
+<br />
 
 <div class="mar">
 <div class="row">
