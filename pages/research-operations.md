@@ -101,8 +101,8 @@ Editing and proofreading activites are listed <a href="../editing/index.html">he
 #### Zurich, Switzerland
 2017
 
-* Bioinformatic pipeline development for virus detection in metagenomes.
-* Analyze the effect of diet on animal gut microbiomes
+* Bioinformatic pipeline development for metagenomes
+* Analyzed the effect of diet on animal gut microbiomes
 
 <br />
 
