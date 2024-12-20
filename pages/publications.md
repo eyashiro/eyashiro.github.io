@@ -14,7 +14,7 @@ header:
 
 <br/><br/>
 
-Verdon, V., …, **Yashiro, E.**, …, Guisan, A. How accurately can we predict the distribution of soil microorganism presence-absence and relative abundance? Ecography, in revision
+Verdon, V., Malard, L., Collart, F., Adde, A., **Yashiro E.**, Lara Pandi, E., Mod, H., Singer, D., Niculita-Hirzel, H., Guex, N., Guisan, A. (2024) Can we accurately predict the distribution of soil microorganism presence and relative abundance? Ecography https://doi.org/10.1111/ecog.07086
 
 Møller, K.V.M., Wesseltoft, J.L., Malarzarte, R., Kousgaard, S.J., Nielsen, H.L., **Yashiro, E.**, Olsen, A. (2023) Usage of cultured human fecal microbiota for colonization of Caenorhabditis elegans to study host-microbe interaction. Applied Microbiology https://doi.org/10.3390/applmicrobiol3040078
 
