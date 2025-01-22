@@ -56,7 +56,7 @@ I help you, the busy scientists, improve your productivity, make deadlines, and 
 4. We will co-sign a simple contract so that you and I know what we can expect from each other in the most transparent way.
 5. I will do the work and communicate with you and your team regularly.
 6. I will send you an invoice at the agreed upon time(s) after completion of the service.
-7. I hope that I can continue supporting you on future projects and tasks.  :smiley:
+7. I hope that I can continue supporting you on future projects and tasks.  &#128513;
 
 <br />
 
@@ -65,7 +65,7 @@ Below is a list of ways in which I can support you.
 
 Click on the icons below to jump to each topic or scroll down.
 
-<a href="../contact/index.html">Contact</a> me to discuss your needs even if they are not listed below.
+<a href="../contact/index.html">Contact me</a> to discuss your needs even if they are not listed below.
 <br /><br />
 
 <div class="row">
@@ -145,6 +145,9 @@ I have collaborated on numerous R&D projects, operated an Illumina sequencing fa
 </div>
 
 <br /><br />
+<a href="../contact/index.html">Contact me!</a>
+
+<br /><br />
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
 <br /><br />
 
@@ -164,7 +167,7 @@ I handle off-loadable tasks to alleviate your busy schedule, help make deadlines
   <div class="medium-4 columns">
     <p style="text-align: center;">
     <font size="+1"><b>Content Writing</b></font><br /><br />
-    Write & Polish user manuals, guides, and protocols. I can also speed up your work by handling part of the preparation and/or retrieval of content for reports, presentations, and teaching materials.</p>
+    Write & Polish user manuals, guides, and protocols. I can also speed up your work by handling part of the preparation and/or retrieval of content for reports, slide decks, and teaching materials.</p>
   </div>
   <div class="medium-4 columns">
     <p style="text-align: center;">
@@ -172,6 +175,9 @@ I handle off-loadable tasks to alleviate your busy schedule, help make deadlines
     I can handle the negotiating with vendors for sequencing and consumables for new projects and provide you with ready-to-use price offers (EU, CH, UK). I also complete miscellaneous offloadable tasks that are getting in the way of your meetings and other priorities.</p>
   </div>
 </div>
+
+<br /><br />
+<a href="../contact/index.html">Contact me!</a>
 
 <br /><br />
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
@@ -204,21 +210,29 @@ Below are the three main things I look out for in your written work:
 </div>
 
 ### Types of documents
-I can work with many types of documents covering the life sciences:
+You can submit many types of documents covering the life and clinical sciences:
 * Reports
 * Manuscripts
+* White papers
 * Grant proposals
-* Abstracts
+* Doctoral and Master theses
+* Conference abstracts
 * Cover letters
-* Presentations
+* Applications (scholarships, fellowships, study programs)
+* Presentations / Slide decks
 * Protocols
+* and more.
+
+You can also submit less technical types of documents:
 * Emails
+* Webpages
+* College application essays
 * and more.
 
 ### Levels of editing
 I provide two levels of editing, depending on the needs of your document.
-  * **Standard Editing:** I will check for linguistic mistakes, formatting and style, consistency, and the flow within sentences.
-  * **Substantive Editing:** In addition to everything in Standard Editing, I will also do a more in-depth editing work, including improvements in word usage and sentence structure. I will also check the quality of the flow throughout the manuscript, check for missing information and misplaced information, and point out any scientific issues I encounter.
+  * **Standard Editing:** Check for linguistic mistakes, formatting and style, consistency, and the flow within sentences.
+  * **Substantive Editing:** In addition to everything in Standard Editing, you will get more in-depth editing work, including improvements in word usage and sentence structure. I will also check the quality of the flow throughout the manuscript, detect missing information and misplaced information, and point out any scientific issues I encounter.
 
 ### Pricing
 
@@ -231,6 +245,9 @@ I provide two levels of editing, depending on the needs of your document.
 \* The price excludes VAT. Businesses within Germany will be charged a 19% VAT. Businesses within the EU will be reverse charge. Businesses outside of the EU will be responsible for their own VAT. Individuals not affiliated with a business will be charged the German 19% VAT.
 
 \*\* The word rate will be determined upon inspection of the document's writing quality. The top-up is to account for the extra time I will need to correct a very poorly written document. It is my experience that most documents are polished enough when handed to me that the top-up is not required.
+
+<br />
+<a href="../contact/index.html">Contact me!</a>
 
 <script>
     function calculatePrice() {

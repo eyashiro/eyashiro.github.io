@@ -53,32 +53,43 @@ homepage: true
 <br/>
 <br/>
 <div class="mar">
-  <h2>I help busy scientists improve their productivity, meet deadlines, and complete projects by offering 3 different types of services.</h2>
+  <h2>I help busy scientists improve their productivity, meet deadlines, and complete projects by offering personalized services that target their specific needs.</h2>
   <br />
 
   <p>I'm Dr. Erika Yashiro. Thank you for visiting my website!</p>
 
-  <p>With more than 20 years of experience in the life sciences research and research support, including over a decade focused on bioinformatics and computational biology, I offer services to scientists that help improve their productivity and output. The 3 ways in which I can support you are: direct involvement in research projects, administrative and technical support, and editing and proofreading.   </p>
+  <p>I have more than 20 years of experience in the life sciences research and research support. My experiences include research work in bioinformatics and computational biology, as well as running research infrastructure, like DNA sequencing and bioinformatics facilities. </p>
+
+  <p>I offer services to scientists in academia and industry that help improve their productivity and output. </p>
+
+  <p>The three primary ways in which I can support you are: direct involvement in research projects, administrative and operational support, and editing and proofreading.   </p>
 
     <p>
-  <a href="../contact/index.html">Contact me</a> to discuss the specifics of your needs and/or if you may be in one of these situations: </p>
+  <a href="../contact/index.html">Contact me</a> to discuss your specifics needs and/or if you're in one of these icky situations: </p>
   <p>
   &#10132; You need additional staff to delegate work to. <br />
   &#10132; Your staff leaves before finishing projects, and you need someone to finish projects and write the reports. <br />
-  &#10132; You are starting a new project that requires a particular expertise or administrative and technical support. <br />
+  &#10132; You're starting a new project that requires a particular expertise or administrative and technical support. <br />
   &#10132; You have data but don't know how or don't have time to analyze them. <br />
   &#10132; You want the maximum impact from your written work. <br />
   &#10132; You need help polishing the English and general state of your documents. <br />
   &#10132; You wish to have an external peer review with quick turnaround time before submitting manuscripts to journals. <br />
-  &#10132; You are overwhelmed by tasks like submitting sequences to Genbank, polishing user guides, data entry, analysis software installations, etc. <br />
+  &#10132; You're overwhelmed and want to delegate tasks like submitting sequences to Genbank, polishing user guides, data entry, analysis software installations, etc. <br />
   &#10132; You have too much administrative work to do and wish to delegate some of that work.  <br />
-  &#10132; You need an extra set of hands to speed up content search and content generation while preparing presentations, reports, grant proposals, and teaching materials. <br />
-  &#10132; I can also support you in many other ways. </p>
+  &#10132; You're preparing presentations, reports, grant proposals, and teaching materials, and you need a hand to speed up content search and content generation. <br />
+  &#10132; You have other specific needs. </p>
 
   <p>I look very much forward to working with you!</p>
 
+  <br /><br />
+  <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
   <br />
-  <h3><a href="../contact/index.html">Get in touch with me to invite me to give a presentation about me and my service offers! </a></h3>
+
+  <h3><a href="../contact/index.html">Invite me to give a presentation about my services! </a></h3>
+
+  <br /><br />
+  <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
+  <br /><br />
 </div>
 
 <br /><br />
