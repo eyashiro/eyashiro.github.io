@@ -23,12 +23,12 @@ I've started an initiative to build a repository of transcribed research papers 
 
 These aren't your typical science summaries you see in most blog posts. They are your research papers transcribed into simpler English that people outside your field of expertise can read and appreciate.
 
-**<a href="https://medium.com/@eyashiro/read-scientific-research-papers-without-fear-d9ed93572e34">More information and the list of papers are found here.</a>**
+#### <a href="https://medium.com/@eyashiro/read-scientific-research-papers-without-fear-d9ed93572e34">Click here for my informational blog post and the list of articles in plain English.</a>
 
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
 
 
-### Here's how it's done:
+### How it works:
 * You're the owner of your story. The transcribed article follows your flow of reasoning, paragraph by paragraph. This means that readers will be following the line of thought of the original authors of the research study.
 
 * The complex concepts are simplified and transcribed into plain English, while key terminologies and methodologies are explained. In this way, students can grasp all the main concepts and ideas of the original paper.  Afterward, reading the original research paper should be less challenging because they already understand three quarters of the study.
@@ -37,7 +37,7 @@ These aren't your typical science summaries you see in most blog posts. They are
 
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
 
-### Here are the benefits of this initiative:
+### Benefits to you and the community:
 * Your research paper will help younger students interested in STEM subjects and introduce them to elite research papers.
 
 * The goal is to build a resource that school teachers and college instructors can use to introduce students to primary literature.
@@ -53,22 +53,30 @@ These aren't your typical science summaries you see in most blog posts. They are
 
 * 250 euros that will help pay for the time I spend transforming your research into simple English so that students and the broader community can appreciate you hard work.
 
+Read the FAQ section below for more details.
+
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
 
-### Here's the reason why I have to ask for sponsorhip (money).
+### Why ask for sponsorhip (money):
 As a freelance life scientist | independent scientific contractor, the time I spend working and providing services to clients and the community is time I need to get paid for. I can't provide free services and expect to put food onto the table.
 
 
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
 
-### *How do I send you the paper and how do I pay?*
-<a href="../contact/index.html">Send me a message</a> along with the paper or the DOI number.  \
-I'll send you an invoice.  \
-Once I receive the payment, I'll get started with the work.
+### *How to send the research paper and how to pay:*
+1. <a href="../contact/index.html">Send me a message</a> along with the paper's DOI number so that I can find it.
+
+2. I'll assess whether I can handle the subject area of your paper. If not, I'll let you know.
+
+3. I'll send you an invoice.
+
+4. Once I receive the payment, I'll get started with the work.
+
+Read the FAQ below for details.
 
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
 
-### Thank you !!
+## Thank you !!
 
 <br /><br />
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
@@ -87,3 +95,7 @@ Yes, I do! <a href="../contact/index.html">Contact me</a> so we can discuss what
 * **What if I find that you misinterpreted my paper?** \
 Don't worry. I'll be asking for your feedback on the draft version. You'll have 4 business days to respond back to me with your reply.  \
 However, if you request major revisions, you'll be invoiced for the additional time I need to get the job done.
+
+* **250 eur seems like a lot...** \
+Actually, for the amount of time I'll spend on your paper, the requested sponsorship amount is very low.  \
+For my other writing services, I charge standard science writing and scientific writing rates.
