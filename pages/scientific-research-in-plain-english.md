@@ -21,7 +21,7 @@ However, the initial phase of becoming proficient at reading technical papers is
 
 I've started an initiative to build a repository of transcribed research papers in simple English and make them available to the community of budding scientists.
 
-These aren't your typical science summaries you see in most blog posts. They are your research papers transcribed into simpler English that people outside your field of expertise can read and appreciate.
+These aren't your typical science summaries you see in most blog posts. They're your research papers transcribed into simpler English that people outside your field of expertise can read and appreciate.
 
 #### <a href="https://medium.com/@eyashiro/read-scientific-research-papers-without-fear-d9ed93572e34">Click here for my informational blog post and the list of articles in plain English.</a>
 
@@ -29,7 +29,7 @@ These aren't your typical science summaries you see in most blog posts. They are
 
 
 ### How it works:
-* You're the owner of your story. The transcribed article follows your flow of reasoning, paragraph by paragraph. This means that readers will be following the line of thought of the original authors of the research study.
+* You're the owner of your story. The transcribed article follows your flow of reasoning, paragraph by paragraph. Therefore, readers will be following the line of thought of the original authors of the research study.
 
 * The complex concepts are simplified and transcribed into plain English, while key terminologies and methodologies are explained. In this way, students can grasp all the main concepts and ideas of the original paper.  Afterward, reading the original research paper should be less challenging because they already understand three quarters of the study.
 
@@ -99,3 +99,6 @@ However, if you request major revisions, you'll be invoiced for the additional t
 * **250 eur seems like a lot...** \
 Actually, for the amount of time I'll spend on your paper, the requested sponsorship amount is very low.  \
 For my other writing services, I charge standard science writing and scientific writing rates.
+
+* **Can I publish the *plain English* article elsewhere than with the other articles in your collection?** \
+Technically, yes. However, placing these articles all over the internet defeats the purpose of creating a repository that students and educators can easily access. The search engines also don't rate duplicates well in the search results, so duplications are highly discouraged.

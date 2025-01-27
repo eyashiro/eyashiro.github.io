@@ -20,6 +20,8 @@
     url: "/portfolio/research-operations/"
   - title: "Publications"
     url: "/portfolio/publications/"
+  - title: "Teaching experience"
+    url: "/portfolio/teaching"
 
 
 - title: "Services"
@@ -36,6 +38,14 @@
     url: "/services/index.html#Editing"
   - title: "Scientific Research in Plain English"
     url: "/services/scientific-research-in-plain-english/"
+
+- title: "Consultations"
+  side: left
+  dropdown:
+  - title: "Alternative careers after PhD"
+    url: "/consultations/careers-after-phd/"
+  - title: "Studying in Europe"
+    url: "/consultations/studying-in-europe/"
 
 - title: "About"
   url: "/about/info/"
