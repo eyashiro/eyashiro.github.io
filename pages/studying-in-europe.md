@@ -18,13 +18,13 @@ Culture shock can happen as soon as there's a border between two countries!
 
 Do you have questions about what it's like being an expat in Europe? Do you wonder whether there may be things to look out for from a personal, cultural, or logistics perspective?
 
-Sometimes, it's the tinny tiny things that make the difference between a great living and studying abroad experience and a draining one.
+Sometimes, it's the tinny tiny things that make the difference between a great experience living and studying abroad and a draining one.
 
-I've lived, studied, and worked in a number of different countries in Europe, as well as in the United States. I'm very happy to share the insights I've gained from my very international upbringing and educational and professional experiences.
+I've lived, studied, and worked in a number of different countries in Europe, as well as the United States. I'm very happy to share the insights I've gained from my very international upbringing and educational and professional experiences.
 
 For example, you can ask me what it's like:
 * Studying and working in the STEM subjects in Europe.
-* Studying and doing research in Switzerland, France, Denmark, and Germany.
+* Doing research in Switzerland, France, Denmark, and Germany.
 * Living as an expat in Europe.
 * Dealing with culture shock.
 * Traveling within Europe.
