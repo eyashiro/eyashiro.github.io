@@ -22,11 +22,15 @@ header:
 <br />
 Please read and agree to the disclaimer part further below before you book!
 
+
+If you don't find a time that works for you on the booking calendar, contact me directly!
+
 | Length   | |    30-minutes   |    60-minutes   |
 |----------|-|:---------------:|:---------------:|
 | Price    | |     70 eur      |     140 eur     |
 | Software | |      Zoom       |    Google Meet  |
 |          | |   [Book now][1] |   [Book now][2] |
+
 
 <br />
 ### DISCLAIMER
