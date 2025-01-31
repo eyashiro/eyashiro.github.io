@@ -16,10 +16,17 @@ header:
 * Working in the academic service sector?
 * Working as an independent scientific contractor / freelance scientist?
 
+If these paths spark your curiosity, I’d love to help you explore them!
+
+While many know the traditional routes (professorship, clinical work, or industry jobs), few have deep, firsthand experience with alternative career paths for highly skilled STEM professionals.
+
+I’ve spent years navigating in non-mainstream roles, and I’m here to share what I’ve learned so you can save time and focus on your next step. I look forward to hearing from you!
 
 <br >
 ### Schedule a one-on-one meeting!
 <br />
+Come with your questions!
+
 Please read and agree to the disclaimer part further below before you book!
 
 

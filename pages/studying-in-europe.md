@@ -34,6 +34,8 @@ For example, you can ask me what it's like:
 <br >
 ### Schedule a one-on-one meeting!
 <br />
+Come with your questions!
+
 Please read and agree to the disclaimer part further below before you book!
 
 | Length   | |    30-minutes   |
