@@ -20,7 +20,11 @@ If these paths spark your curiosity, I’d love to help you explore them!
 
 While many know the traditional routes (professorship, clinical work, or industry jobs), few have deep, firsthand experience with alternative career paths for highly skilled STEM professionals.
 
-I’ve spent years navigating in non-mainstream roles, and I’m here to share what I’ve learned so you can save time and focus on your next step. I look forward to hearing from you!
+I’ve spent years navigating in non-mainstream roles, and I’m here to share what I’ve learned so you can save time and focus on your next step.
+
+*There's also nothing to be ashamed of* when working in the support sector after a PhD or MD. Trust me, I've been there. We can talk more about this during our call.
+
+I look forward to hearing from you!
 
 <br >
 ### Schedule a one-on-one meeting!
