@@ -155,24 +155,26 @@ I have collaborated on numerous R&D projects, operated an Illumina sequencing fa
 
 <a name="Rsupport"></a>
 ## Research Support and Operations
-I handle off-loadable tasks to alleviate your busy schedule, help make deadlines, and improve productivity and output. Below, I list some of the ways in which I have helped people in the past. You can also read more about my past experiences with research support <a href="../portfolio/research-operations/index.html">here</a>.
+Delegate off-loadable tasks to alleviate your busy schedule. Get the help you need to meet deadlines. Boost productivity and improve output!
+
+Here are some examples. Read more about how clients and past employers were supported <a href="../portfolio/research-operations/index.html">here</a>.
 <br /><br />
 
 <div class="row" id="container">
   <div class="medium-4 column">
     <p style="text-align: center;">
     <font size="+1"><b>Operational Bioinformatics</b></font><br /><br />
-    Data management, Submitting sequences to SRA, bio analysis software installation and troubleshooting, Easybuild and lmod setup and package library maintenance, NGS data QC, other bioinformatics issues on Ubuntu.</p>
+    Data management. Submitting sequences to SRA. Bio analysis software installation and troubleshooting. Easybuild and lmod setup and package library maintenance. NGS data QC, other bioinformatics issues on Ubuntu.</p>
   </div>
   <div class="medium-4 columns">
     <p style="text-align: center;">
     <font size="+1"><b>Content Writing</b></font><br /><br />
-    Write & Polish user manuals, guides, and protocols. I can also speed up your work by handling part of the preparation and/or retrieval of content for reports, slide decks, and teaching materials.</p>
+    Writing & Polishing user manuals, guides, and protocols. Retrieval and preparation of content for reports, slide decks, and teaching materials.</p>
   </div>
   <div class="medium-4 columns">
     <p style="text-align: center;">
     <font size="+1"><b>Science Operations</b></font><br /><br />
-    I can handle the negotiating with vendors for sequencing and consumables for new projects and provide you with ready-to-use price offers (EU, CH, UK). I also complete miscellaneous offloadable tasks that are getting in the way of your meetings and other priorities.</p>
+    Handle negotiations with vendors for sequencing and consumable prices and deliver ready-to-use price offers (EU, CH, UK). Complete miscellaneous off-loadable tasks that are getting in the way of your meetings and other priorities.</p>
   </div>
 </div>
 
