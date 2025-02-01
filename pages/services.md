@@ -186,8 +186,14 @@ I handle off-loadable tasks to alleviate your busy schedule, help make deadlines
 <div style="text-align:center;"><img src="../images/services-editing.jpg" style="border:1px solid black"></div>
 
 <a name="Editing"></a>
-## Scientific Editing and Proofreading
-I have been working with individual colleagues as well as with an academic editing company to support non-native English-speaking scientists and improve their scientific documents, so that they can overcome the language barier, disseminate their research and ideas in high impact journals, and apply to presitigious agencies. In order to provide the best possible services and be able to showcase my expertise in editing, I also successfully completed the <a href="../portfolio/editing/index.html">Poynter ACES Editing Certificate</a> last year. As an editor, I strive for the "4 Cs": clarity, coherence, consisteny, and correctness
+## Editing and Proofreading (Scientific + General)
+
+Disseminate your ideas, attract customers, and apply to prestigious agencies in proper English!
+
+Get your scientific and non-technical documents checked and polished. The goal is to help you overcome the language barrier and ensure that people will read, understand, and appreciate every bit of your writing.
+
+
+<a href="../portfolio/editing/index.html"> Click here</a> if interested in my editing credentials.
 
 Below are the three main things I look out for in your written work:
 <br /><br />
@@ -195,22 +201,22 @@ Below are the three main things I look out for in your written work:
   <div class="medium-4 column">
     <p style="text-align: center;">
     <font size="+1"><b>Correct Language</b></font><br /><br />
-    I will correct the linguistic mistakes that are present in your work. These include checking the grammar, spelling, and level of formality of the language. Awkward sentences will be rewritten, and the flow of the text can be improved. </p>
+    The service includes checking the grammar, spelling, and level of formality. Awkward sentences will be rewritten, and the flow of the text can be improved. </p>
   </div>
   <div class="medium-4 column">
     <p style="text-align:center;">
     <font size="+1"><b>Check Format and Style</b></font><br /><br />
-    If you know where you will be submitting your document to, I can check that the journal or agency house style is respected in your document. I mostly follow the CSE style guide, which is a scientific variant of CMOS. If you have very specific style preferences, I can accommodate your needs. I can edit in American and British English. Any other general formatting issues will also be checked and corrected.</p>
+    For research manuscripts and grants, compliance with the journal or agency's house style can be checked. I mostly follow the CSE and CMOS style guides. If you have very specific style preferences, feel free to let me know. Choose between American and British English spelling. </p>
   </div>
   <div class="medium-4 column">
     <p style="text-align:center;">
     <font size="+1"><b>Ensure Consistency</b></font><br /><br />
-    Consistency in the use of fonts, punctuation marks, margins, abbreviations, terminology, and style are often overlooked. I will check all of the above to ensure that reading your document becomes a smooth experience for your target readers.</p>
+    Consistency in fonts, punctuation marks, margins, abbreviations, terminology, and style is often overlooked. These elements will be checked to ensure a smooth experience for your target readers.</p>
   </div>
 </div>
 
 ### Types of documents
-You can submit many types of documents covering the life and clinical sciences:
+**Technical documents:** STEM and clinical sciences
 * Reports
 * Manuscripts
 * White papers
@@ -223,16 +229,19 @@ You can submit many types of documents covering the life and clinical sciences:
 * Protocols
 * and more.
 
-You can also submit less technical types of documents:
+**Other document types:**
 * Emails
 * Webpages
 * College application essays
 * and more.
 
 ### Levels of editing
-I provide two levels of editing, depending on the needs of your document.
-  * **Standard Editing:** Check for linguistic mistakes, formatting and style, consistency, and the flow within sentences.
-  * **Substantive Editing:** In addition to everything in Standard Editing, you will get more in-depth editing work, including improvements in word usage and sentence structure. I will also check the quality of the flow throughout the manuscript, detect missing information and misplaced information, and point out any scientific issues I encounter.
+
+  * **Standard Editing:** Check for linguistic mistakes, formatting, style, consistency, and flow within sentences.
+  * **Substantive Editing:** *Standard Editing* plus improve word usage, sentence structure, and flow throughout the manuscript. Detect missing and misplaced information. Point out any scientific issues I encounter.
+
+Unless requested, the reference section of scientific documents is not checked because people normally use reference managers to format the references automatically.
+
 
 ### Pricing
 
