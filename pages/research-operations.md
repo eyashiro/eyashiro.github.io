@@ -11,7 +11,8 @@ header:
 
 ### Attention:
 Research activities are on the <a href="../research/index.html">Scientific Research</a> page and <a href="../publications/index.html">Publications</a> list.
-Editing and proofreading activites are listed <a href="../editing/index.html">here</a>.
+
+Click <a href="../editing/index.html">here</a> to lear about the <a href="../editing/index.html">Editing and proofreading</a> activites.
 
 
 ## Freelance Life Scientist / Independent Contractor

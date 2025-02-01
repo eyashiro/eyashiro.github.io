@@ -50,22 +50,22 @@ I help you, the busy scientists, improve your productivity, make deadlines, and 
 <br />
 
 # How It Works
-1. Take a look below at the three areas in which I can provide my services.
-2. <a href="../contact/index. html">Contact me</a> to discuss your needs.
+1. Take a look at the different types of services available.
+2. <a href="../contact/index. html">Contact me</a> to discuss your specific needs.
 3. We will agree on a personalized service offer that suits all your needs.
 4. We will co-sign a simple contract so that you and I know what we can expect from each other in the most transparent way.
 5. I will do the work and communicate with you and your team regularly.
-6. I will send you an invoice at the agreed upon time(s) after completion of the service.
+6. I will send you an invoice at the agreed upon time(s) after completion of the milestones or services.
 7. I hope that I can continue supporting you on future projects and tasks.  &#128513;
 
 <br />
 
 # Types of Services
-Below is a list of ways in which I can support you.
+Here's a list of ways I can support you.
 
 Click on the icons below to jump to each topic or scroll down.
 
-<a href="../contact/index.html">Contact me</a> to discuss your needs even if they are not listed below.
+<a href="../contact/index.html">Contact me</a> to discuss your needs even if they're not listed below. We all have different problems that needs solving.
 <br /><br />
 
 <div class="row">
@@ -86,7 +86,7 @@ Click on the icons below to jump to each topic or scroll down.
 </div>
 
 <br />
-
+#### !! Additional new services and consultations are available through the Menu's dropdown list !!
 
 <br /><br />
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
@@ -96,54 +96,60 @@ Click on the icons below to jump to each topic or scroll down.
 
 <div style="text-align:center;"><img src="../images/services-research.jpg" style="border:1px solid black"></div>
 ## Research and Development
-I have collaborated on numerous R&D projects, operated an Illumina sequencing facility, and maintained at institute's bioinformatics server platform. Therefore, I have hands-on experience with the entire workflow that many Big Data-related life science research projects go through. I provide my expertise in data analysis, NGS, and bioinformatics while having a thorough understanding of the impact that data collection methodology can have on both the data and the types of analytical approaches we use to pull out insightful information. Check out my research portfolio for my experiences in data analysis and visualization <a href="../portfolio/research/index.html">here</a>.
 
-**I can...**
+I have collaborated on many R&D projects, operated an Illumina sequencing facility, and maintained an institute's bioinformatics server platform. All this hands-on experience has given me a solid understanding of the full workflow that many Big Data-driven life science research projects follow. I specialize in data analysis, NGS, and bioinformatics, with a strong grasp of how data collection methods shape both the data itself and the way we analyze to uncover insightful information.
+
+Check out my research portfolio to learn about my experiences in data analysis and visualization <a href="../portfolio/research/index.html">here</a>. I'm also eager to learn new things!
+
+#### I can...
 <br />
 <div class="row" id="container">
   <div class="medium-4 column">
     <p style="text-align: center">
     <font size="+1.5"><b>Collaborate on research projects</b></font><br /><br />
-    I will bring my research experience and expertise to the table so that we can expand the scope of your research area.</p>
+    Bring in research experience and expertise to the table so you can expand the scope of your research area.</p>
   </div>
   <div class="medium-4 column">
     <p style="text-align: center">
     <font size="+1.5"><b>Complete unfinished projects or help you start new projects</b></font><br />
-    When you have enough projects on your plate and have insufficient staff, I am your extra set of brains and hands to complete projects. If you lack in an expertise that I have, let me support you in getting new projects started.</p>
+    When you're overwhelmed with projects and lack staff, get an extra set of brains and hands to complete projects. If you need particular expertise, get the support you need to get new projects off the ground.</p>
   </div>
   <div class="medium-4 column">
     <p style="text-align: center">
     <font size="+1.5"><b>Troubleshoot NGS data problems</b></font><br /><br />
-    In some cases, your sequencing data does not look right or you are losing more data than you expect from your workflow. I have helped retrieved samples from sequencing projects that lost the barcode-sample matching lists and optimized QC workflows to retrieve more analyzable data.</p>
+    Your sequencing data doesn't look right, or you're losing more data than expected from your workflow. I have helped clients retrieve lost barcode-sample matching lists and optimized QC workflows to retrieve more analyzable data.</p>
   </div>
 </div>
 
 <br />
-**Methodologically, here are ways in which I can support your projects:**
+#### Methodologically, I can support your projects as follows:
 <br />
 <div class="row" id="container">
   <div class="medium-3 column">
     <p style="text-align: center;">
     <font size="+1"><b>Data Analysis</b></font><br /><br />
-    I analyze your data using various statistical analysis methods in R and other bioinformatics tools.</p>
+    Get your data analyzed using various statistical analysis methods using R and other bioinformatics tools.</p>
   </div>
   <div class="medium-3 column">
     <p style="text-align: center;">
     <font size="+1"><b>Data Visualization</b></font><br /><br />
-    I generate compelling graphs, diagrams, and tables that extract valuable insights from raw, noisy data.</p>
+    Have compelling graphs, diagrams, and tables generated that extract valuable insights from raw, noisy data.</p>
   </div>
   <div class="medium-3 column">
     <p style="text-align: center;">
     <font size="+1"><b>Data Processing Pipelines</b></font><br /><br />
-    I can help you automate data processing and analysis by writing scripts that are compatible in GNU Bash and R.</p>
+    Get the help you need to automate data processing and analysis through scripts that are compatible with R and GNU Bash.</p>
   </div>
   <div class="medium-3 column">
     <p style="text-align: center;">
     <font size="+1"><b>Reports and Manuscripts</b></font><br /><br />
-    I will help you write the reports and manuscripts on the generated results. I can also finish the reports and manuscripts of data that you hadn't had time to finish.</p>
+    Have your reports and manuscripts written so you can focus on moving other projects forward.</p>
   </div>
 </div>
 
+
+
+#### I can also polish what you've already written. Check out my <a href="index.html#Editing">editing and proofreading service</a>.
 <br /><br />
 <a href="../contact/index.html">Contact me!</a>
 

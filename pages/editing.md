@@ -79,10 +79,10 @@ I work with both *private clients* and *commercial clients*.
 
 ## Samples of edited work
 
-Calculated ionization energies, orbital eigenvalues (HOMO), and related QSAR descriptors of organic molecules: a set of 61 experimental values enables elimination of systematic errors and provides realistic error estimates (2024) <br />
+* Calculated ionization energies, orbital eigenvalues (HOMO), and related QSAR descriptors of organic molecules: a set of 61 experimental values enables elimination of systematic errors and provides realistic error estimates (2024) <br />
 <a href="https://doi.org/10.1039/D4CP02342K">https://doi.org/10.1039/D4CP02342K</a>
 
-Can we accurately predict the distribution of soil microorganism presence and relative abundance? (2024) <br />
+* Can we accurately predict the distribution of soil microorganism presence and relative abundance? (2024) <br />
 <a href="https://doi.org/10.1111/ecog.07086">https://doi.org/10.1111/ecog.07086</a>
 
 <br /><br />
