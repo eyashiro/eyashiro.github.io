@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "Services"
   url: 'http://eyashiro.github.io/services/'
-  text: 'Every person needs support in different ways.<br/>Here are 3 ways I can help: <br/> 1. Research and development <br/> 2. Administrative and technical support <br/> 3. Editing and proofreading'
+  text: 'Every person needs support in different ways.<br/> 1. Research and development <br/> 2. Administrative and technical support <br/> 3. Editing and proofreading <br /> 4. Science writing <br /> 5. Consultations'
 widget3:
   title: "About me"
   url: 'https://eyashiro.github.io/about/info/'
@@ -58,14 +58,12 @@ homepage: true
 
   <p>I'm Dr. Erika Yashiro. Thank you for visiting my website!</p>
 
-  <p>I have more than 20 years of experience in the life sciences research and research support. My experiences include research work in bioinformatics and computational biology, as well as running research infrastructure, like DNA sequencing and bioinformatics facilities. </p>
+  <p>I have more than 20 years of experience in the life sciences research and research support. My experiences include research work in bioinformatics and computational biology, as well as running research infrastructure, like DNA sequencing and bioinformatics facilities. I've also completed a certificate in editing and proofreading. </p>
 
-  <p>I offer services to scientists in academia and industry that help improve their productivity and output. </p>
+  <p>I offer services to scientists in academia and industry that help improve their productivity and output. I also offer editing and proofreading services to a broader community of professionals and students. Check out my service offers! </p>
 
-  <p>The three primary ways in which I can support you are: direct involvement in research projects, administrative and operational support, and editing and proofreading.   </p>
-
-    <p>
-  <a href="../contact/index.html">Contact me</a> to discuss your specifics needs and/or if you're in one of these icky situations: </p>
+  <p>
+  <a href="../contact/index.html">Contact me</a> to discuss your specifics needs and/or if you're in one of these icky situations below: </p>
   <p>
   &#10132; You need additional staff to delegate work to. <br />
   &#10132; Your staff leaves before finishing projects, and you need someone to finish projects and write the reports. <br />
@@ -79,7 +77,7 @@ homepage: true
   &#10132; You're preparing presentations, reports, grant proposals, and teaching materials, and you need a hand to speed up content search and content generation. <br />
   &#10132; You have other specific needs. </p>
 
-  <p>I look very much forward to working with you!</p>
+  <p>I look forward to working with you!</p>
 
   <br /><br />
   <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
