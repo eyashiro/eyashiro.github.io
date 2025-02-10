@@ -55,6 +55,7 @@ homepage: true
 <div class="mar">
   <h2>I help busy scientists improve their productivity, meet deadlines, and complete projects by offering personalized services that target their specific needs.</h2>
   <br />
+  <p> Life Sciences Research Support offers services in R&D data analysis, research operations, editing and proofreading, and scientific content creation. </p>
 
   <p>I'm Dr. Erika Yashiro. Thank you for visiting my website!</p>
 
@@ -174,3 +175,6 @@ homepage: true
   </div>
 </div>
 </div>
+
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
