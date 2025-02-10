@@ -1,6 +1,27 @@
-The MIT License (MIT)
+## Logos
 
-Copyright (c) 2014 Moritz »mo.« Sauer // Phlow.de
+All the logo files are copyrighted to their respective companies.
+
+## Images
+
+All other files and content inside images/ directory and the website's logo are copyrighted to Erika Yashiro. All rights reserved.
+
+## Webpages
+
+All files and content related to bio and services are licensed under CC BY 4.0.
+These include markdown files under pages/. The attribution requirement is only met when:
+
+1. The canonical link is directed towards the original article, e.g.
+<link rel="canonical" href="https://eyashiro.github.io/index.hmtl" />
+
+2. The following message is displayed above and below the article:
+This article has been originally published on <https://eyashiro.github.io/">Erika Yashiro's website</a>.
+
+## Other files
+
+Files not mentioned in previous paragraphs are licensed under MIT License.
+
+## The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
