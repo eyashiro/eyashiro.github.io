@@ -15,7 +15,7 @@ title: 'Life Sciences Research Support'
 #slogan: 'I support busy scientists to improve their productivity, make deadlines, and complete projects'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Life Sciences Research Support offers services in R&D, data analysis, research operations, editing and proofreading, and scientific content creation.'
+description: 'Life Sciences Research Support offers services in R&D data analysis, research operations, editing and proofreading, and scientific content creation.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
