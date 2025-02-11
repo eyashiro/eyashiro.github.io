@@ -1,7 +1,7 @@
 ---
 layout: page
 #layout: page-fullwidth
-title: "Careers after PhD"
+title: "Alternative Careers after PhD"
 #subheadline: ""
 #teaser: ""
 permalink: "/consultations/careers-after-phd/"
@@ -11,6 +11,7 @@ header:
 ---
 
 
+## 1-on-1 meetings to start you on the right foot!
 
 ### Are you approaching the end of your PhD or Postdoc funding and want to learn more about what it's like:
 <br />
