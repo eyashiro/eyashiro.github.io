@@ -24,7 +24,7 @@ If these paths spark your curiosity, I’d love to help you explore them!
 
 #### Academic service sector
 
-While many know the traditional routes (professorship, clinical work, or industry jobs), few have deep, firsthand experience with alternative career paths for highly skilled STEM professionals.
+While many know about traditional careers after a PhD (e.g., professorship, clinical work, or industry jobs), few have deep, firsthand experience with alternative career paths for highly skilled STEM professionals.
 
 I’ve spent years navigating in non-mainstream roles, and I’m here to share what I’ve learned so you can save time and focus on your next step.
 
