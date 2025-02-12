@@ -59,7 +59,7 @@ If you don't find a time that works for you on the booking calendar, contact me 
 
 | Length   | |    30-minutes   |    60-minutes   |
 |----------|-|:---------------:|:---------------:|
-| Price    | |     ~~70 eur~~ 35 eur      |     ~~140 eur~~ 70 eur     |
+| Price    | |     ~~$70~~ $35      |     ~~$140~~ $70     |
 | Software | |      Zoom       |    Google Meet  |
 |          | |   [Book now][1] |   [Book now][2] |
 
