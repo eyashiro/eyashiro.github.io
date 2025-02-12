@@ -14,13 +14,15 @@ header:
 ### Erika Yashiro, Ph.D.
 
 <br />
-Contact me at: eyashiro2[at}gmail-dot-com
+**Send me an inquiry. I'm here to help! <br />
+Email:** eyashiro2[at}gmail-dot-com
 
-If you absolutely have to send me paper... \
+<br />
+<img src="../images/map_small.png" class="center">
+<br /><br />
 Address: \
 Münsterstraße 56 \
 44145 Dortmund \
 Germany
 <br /><br /><br /><br />
 
-<img src="../images/map_small.png" class="center">

@@ -31,8 +31,7 @@ header:
 <br /><br />
 
 ## Commercial clients
-**Edited and proofread so far:** websites, manuscripts, and cover letters <br />
-I work with both *private clients* and *commercial clients*.
+**Edited and proofread so far:** websites, manuscripts, abstracts, and cover letters
 <br />
 <div class="mar">
 <div class="row">

@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "Services"
   url: 'http://eyashiro.github.io/services/'
-  text: 'Every person needs support in different ways.<br/> 1. Research and development <br/> 2. Administrative and technical support <br/> 3. Editing and proofreading <br /> 4. Science writing <br /> 5. Consultations'
+  text: 'Every person needs support in different ways.<br/> 1. Research and Development <br/> 2. Administrative and Technical Support <br/> 3. Editing and Proofreading <br /> 4. Technical and Scientific Writing<br /> 5. Science Writing <br /> 6. Consultations'
 widget3:
   title: "About me"
   url: 'https://eyashiro.github.io/about/info/'
