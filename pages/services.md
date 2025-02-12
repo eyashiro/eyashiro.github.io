@@ -42,6 +42,7 @@ header:
 <br />
 <br />
 
+<a name="Top"></a>
 # My Mission
 <div id="container">
 <b>Personalized solutions for individual needs.</b><br />
@@ -50,13 +51,14 @@ I help you, the busy scientists, improve your productivity, make deadlines, and 
 <br />
 
 # How It Works
-1. Take a look at the different types of services available.
-2. <a href="../contact/index. html">Contact me</a> to discuss your specific needs.
-3. We will agree on a personalized service offer that suits all your needs.
-4. We will co-sign a simple contract so that you and I know what we can expect from each other in the most transparent way.
-5. I will do the work and communicate with you and your team regularly.
-6. I will send you an invoice at the agreed upon time(s) after completion of the milestones or services.
-7. I hope that I can continue supporting you on future projects and tasks.  &#128513;
+1. Pick a service type.
+2. <a href="../contact/index. html">Discuss your specific needs.</a>
+3. Receive a personalized service offer that suits all your needs.
+4. Agree to a simple contract so we know what to expect from each other in the most transparent way.
+5. Get regular communication while work is in progress.
+6. Receive the deliverables.
+7. Pay the invoice after completion of each milestone or services.
+8. Continue working together on future projects and tasks if satisfied.  &#128513;
 
 <br />
 
@@ -81,7 +83,25 @@ Click on the icons below to jump to each topic or scroll down.
 
   <div class="medium-4 column">
     <a href="#Editing"><img src="../images/services-editing.jpg" style="border:1px solid black"></a>
-    <p><a href="#Editing">Scientific Editing and Proofreading</a></p>
+    <p><a href="#Editing">Editing and Proofreading <br />
+    (Scientific and General)</a></p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="medium-4 column">
+    <a href="#TechWriting"><img src="../images/services-technical-scientific-writing.jpg" style="border:1px solid black"></a>
+    <p><a href="#TechWriting">Technical and Scientific Writing</a></p>
+  </div>
+
+  <div class="medium-4 column">
+    <a href="#SciWriting"><img src="../images/services-science-writing.jpg" style="border:1px solid black"></a>
+    <p><a href="#SciWriting">Science Writing</a></p>
+  </div>
+
+  <div class="medium-4 column">
+    <a href="#Consultations"><img src="../images/services-education-meetings.jpg" style="border:1px solid black"></a>
+    <p><a href="#Consultations">Consultations</a></p>
   </div>
 </div>
 
@@ -153,13 +173,15 @@ Check out my research portfolio to learn about my experiences in data analysis a
 <br /><br />
 <a href="../contact/index.html">Contact me!</a>
 
+<p style="text-align:right;"><a href="#Top">Back to top</a></p>
+
 <br /><br />
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
 <br /><br />
 
+<a name="Rsupport"></a>
 <div style="text-align:center;"><img src="../images/services-Rsupport.jpg" style="border:1px solid black"></div>
 
-<a name="Rsupport"></a>
 ## Research Support and Operations
 Delegate off-loadable tasks to alleviate your busy schedule. Get the help you need to meet deadlines. Boost productivity and improve output!
 
@@ -180,20 +202,23 @@ Here are some examples. Read more about how clients and past employers were supp
   <div class="medium-4 columns">
     <p style="text-align: center;">
     <font size="+1"><b>Science Operations</b></font><br /><br />
-    Handle negotiations with vendors for sequencing and consumable prices and deliver ready-to-use price offers (EU, CH, UK). Complete miscellaneous off-loadable tasks that are getting in the way of your meetings and other priorities.</p>
+    Handle negotiations with vendors for sequencing and consumable prices and deliver ready-to-use price offers (EU, CH, UK). Data entry. Complete miscellaneous off-loadable tasks that are getting in the way of your meetings and other priorities.</p>
   </div>
 </div>
 
 <br /><br />
 <a href="../contact/index.html">Contact me!</a>
 
+<p style="text-align:right;"><a href="#Top">Back to top</a></p>
+
 <br /><br />
 <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
 <br /><br />
 
+<a name="Editing"></a>
 <div style="text-align:center;"><img src="../images/services-editing.jpg" style="border:1px solid black"></div>
 
-<a name="Editing"></a>
+
 ## Editing and Proofreading (Scientific + General)
 
 Disseminate your ideas, attract customers, and apply to prestigious agencies in proper English!
@@ -312,3 +337,89 @@ Unless requested, the reference section of scientific documents is not checked b
 <script src="https://cdn.logwork.com/widget/currency_converter.js"></script>
 <a href="https://logwork.com/free-currency-converter-calculator" class="currency_convertor" data-currencies="EUR,USD,JPY,GBP,CNY,INR">Currency Converter</a>
 </div>
+
+
+<p style="text-align:right;"><a href="#Top">Back to top</a></p>
+
+<br /><br />
+<p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
+<br /><br />
+
+<a name="TechWriting"></a>
+<div style="text-align:center;"><img src="../images/services-technical-scientific-writing.jpg" style="border:1px solid black"></div>
+
+## Technical and Scientific Writing
+Do you have data but haven't had time to write the report?
+
+Do you want to disseminate your company's scientific and technical prowess?
+
+Standardizing experimental procedures forms the foundation of good research practices, but who had time to write up the protocol?
+
+
+#### Here are examples of how I can help:
+
+<br />
+<div class="row" id="container">
+  <div class="medium-4 column">
+    <p style="text-align: center">
+    <font size="+1.5"><b>Technical documents</b></font><br /><br />
+    Experimental protocols<br />
+    User manuals and how-to guides</p>
+  </div>
+  <div class="medium-4 column">
+    <p style="text-align: center">
+    <font size="+1.5"><b>B2B communication</b></font><br /><br />
+    White papers<br />
+    Research reports for stakeholders</p>
+  </div>
+  <div class="medium-4 column">
+    <p style="text-align: center">
+    <font size="+1.5"><b>Academic reports</b></font><br /><br />
+    Manuscripts for peer-reviewed journals<br />
+    Research reports for grant agencies</p>
+  </div>
+</div>
+
+<br />
+<a href="../contact/index.html">Contact me!</a>
+
+<p style="text-align:right;"><a href="#Top">Back to top</a></p>
+
+<br /><br />
+<p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
+<br /><br />
+
+<a name="SciWriting"></a>
+<div style="text-align:center;"><img src="../images/services-science-writing.jpg" style="border:1px solid black"></div>
+
+## Science Writing
+
+Did you like the articles I've been posting through LinkedIn and Medium?
+
+Get in touch with me if interested.
+
+<br />
+<a href="../contact/index.html">Contact me!</a>
+<p style="text-align:right;"><a href="#Top">Back to top</a></p>
+
+<br /><br />
+<p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</font></p>
+<br /><br />
+
+<a name="Consultations"></a>
+<div style="text-align:center;"><img src="../images/services-education-meetings.jpg" style="border:1px solid black"></div>
+
+## Education: 1-on-1 Meetings
+
+You can book 1-on-1 meetings to learn more about specific topics.
+
+Bring your questions so you can ask a real person rather than LLMs.
+
+Save time by asking someone who's already spent months (or years) surfing the internet, experiencing it all live, and asking people the same questions you have!
+
+I recommend starting with the 30 minute package. Take your time to think about everything we discussed, and if you have more questions, book another meeting.
+
+Check the dropdown Consultations menu above to book!
+
+<br />
+<a href="../contact/index.html">Contact me!</a>
