@@ -24,5 +24,7 @@ Address: \
 Münsterstraße 56 \
 44145 Dortmund \
 Germany
-<br /><br /><br /><br />
+<br /><br />
+<br />
+This website uses Simple Analytics, a privacy-first Google Analytics alternative. <a href="https://www.simpleanalytics.com/?referral=kotek-tof">If interested, here's the affiliate link.</a>
 
