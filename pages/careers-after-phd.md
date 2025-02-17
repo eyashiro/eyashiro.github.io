@@ -13,22 +13,32 @@ header:
 
 ## 1-on-1 meetings to start you on the right foot!
 
-### Are you approaching the end of your PhD or Postdoc funding and want to learn more about what it's like:
-<br />
-* Working in the academic service sector?
+#### Are you approaching the end of your PhD or Postdoc funding and want to learn more about:
+* Alternative career roles for STEM / medical / clinical scientists?
 * Working as an independent scientific contractor / freelance scientist?
 
 If these paths spark your curiosity, I’d love to help you explore them!
 
 <br />
 
-#### Academic service sector
+#### Real people have insights. Chatbots are only as good as what's commonly available
+What I offer is over 20 years of work experience in typical and alternative jobs.
+
+I don't hallucinate like AI chatbots do. So, you get factual insights you can actually trust.
+
+Chatbots are also only as good as what's commonly found on the internet. Much of what I learned on the jobs had to be learned from people because the internet didn't have all the answers.
+
+Remember, real people with real experiences are what AI companies always seek because we have the insights and experiences machines don't have.
+
+<br />
+
+#### Alternative career roles
 
 While many know about traditional careers after a PhD (e.g., professorship, clinical work, or industry jobs), few have deep, firsthand experience with alternative career paths for highly skilled STEM professionals.
 
 I’ve spent years navigating in non-mainstream roles, and I’m here to share what I’ve learned so you can save time and focus on your next step.
 
-*There's also nothing to be ashamed of* when working in the support sector after a PhD or MD. Trust me, I've been there. We can talk more about this during our call.
+*There's also nothing to be ashamed of* when working in the support sector and other roles after a PhD or MD. You're not a coward for leaving the tenure-track path. Trust me, I've been there. We can talk more about this during our meeting.
 
 <br />
 
@@ -38,7 +48,7 @@ The internet is filled to the rim with bloggers boasting about how they earned d
 
 In reality, there's a lot more to freelance or independent contractor work than what's visible on the surface.
 
-As a full-time STEM graduate, you'll have no idea where to start as a solo entrepreneur nor what to believe when you try to learn this on the internet. What do you do about taxes? promo work? insurances? And there's much more!
+As a full-time STEM/med./clin. graduate, you'll have no idea where to start as a solo entrepreneur nor what to believe when you try to learn this on the internet. What do you do about taxes? promo work? insurances? And there's much more!
 
 I spent months reading up and setting myself up for freelance work. I learned so much about starting this line of work.
 
@@ -46,9 +56,10 @@ If you're new to independent scientific contractor / freelance work and you want
 
 <br >
 
+
 ### Schedule a one-on-one meeting!
 <br />
-Come with your questions!
+Come with your questions and concerns!
 
 Please read and agree to the disclaimer part further below before you book!
 
