@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Editing and Proofreading"
+title: "Portfolio: Editing and Proofreading"
 #subheadline: ""
 #teaser: "."
 permalink: "/portfolio/editing/"

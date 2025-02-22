@@ -53,6 +53,16 @@
   - title: "Teaching experience"
     url: "/portfolio/teaching"
 
+- title: "Resources"
+  side: left
+  dropdown:
+  - title: "Resources: Writing tips"
+    url: "/resources/writing-tips/"
+  - title: "Resources: Careers in STEM"
+    url: "/resources/careers-in-stem/"
+  - title: "Blog: Science writing"
+    url: "/resources/science-writing/"
+
 - title: "About"
   url: "/about/info/"
   side: left
