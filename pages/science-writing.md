@@ -23,7 +23,7 @@ header: no
 
   <div class="medium-4 column">
     <p><small>SCIENTIFIC RESEARCH IN PLAIN ENGLISH</small></p>
-    <a href="https://medium.com/@eyashiro/the-intertwined-nature-of-climate-change-and-microplastics-3416942d1725"><img src="../../images/250220_Oxford-comma_thumbnail.jpg"></a>
+    <a href="https://medium.com/@eyashiro/the-intertwined-nature-of-climate-change-and-microplastics-3416942d1725"><img src="../../images/241223_Climate change and microplastics_thumbnail.jpg"></a>
     <h3><a href="https://medium.com/@eyashiro/the-intertwined-nature-of-climate-change-and-microplastics-3416942d1725">The Intertwined Nature of Climate Change and Microplastics</a></h3>
     <p>By Erika (23-Dec-2024)</p>
     Beyond the PhD: Navigating Unseen Opportunities in Academia
@@ -31,7 +31,7 @@ header: no
 
   <div class="medium-4 column">
     <p><small>SCIENTIFIC RESEARCH IN PLAIN ENGLISH</small></p>
-    <a href="https://medium.com/curie-co/how-aware-and-concerned-are-people-about-plastic-pollution-6607c07c0e1b"><img src="../../images/250104_postPhD_career_paths_part_2_thumbnail.jpg"></a>
+    <a href="https://medium.com/curie-co/how-aware-and-concerned-are-people-about-plastic-pollution-6607c07c0e1b"><img src="../../images/250113_awareness-about-plastic-pollution_thumbnail.jpg"></a>
     <h3><a href="https://medium.com/curie-co/how-aware-and-concerned-are-people-about-plastic-pollution-6607c07c0e1b">How Aware and Concerned Are People About Plastic Pollution?</a></h3>
     <p>By Erika (14-Jan-2025)</p>
     Teaching you how to think like a researcher with a case study in Portugal
