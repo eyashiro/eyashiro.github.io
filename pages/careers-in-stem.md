@@ -21,7 +21,7 @@ header: no
   </div>
 
   <div class="medium-4 column">
-    <a href="https://medium.com/@eyashiro/have-you-wondered-what-your-phd-is-worth-outside-of-industry-part-1-0ecc4bd31b7e"><img src="../../images/250220_Oxford-comma_thumbnail.jpg"></a>
+    <a href="https://medium.com/@eyashiro/have-you-wondered-what-your-phd-is-worth-outside-of-industry-part-1-0ecc4bd31b7e"><img src="../../images/241225_postPhD-career-part-1_thumbnail.jpg"></a>
     <h3><a href="https://medium.com/@eyashiro/have-you-wondered-what-your-phd-is-worth-outside-of-industry-part-1-0ecc4bd31b7e">Have You Wondered What Your PhD is Worth Outside of Industry? (part 1)</a></h3>
     <p>By Erika (25-Dec-2024)</p>
     Beyond the PhD: Navigating Unseen Opportunities in Academia
