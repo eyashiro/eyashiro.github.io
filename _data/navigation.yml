@@ -31,7 +31,9 @@
   url: "/services/index.html#Consultations"
   side: left
   dropdown:
-  - title: "Alternative careers after PhD"
+  - title: "Alternative careers for STEM researchers"
+    url: "/consultations/alternative-careers-for-stem-researchers/"
+  - title: "Alternative careers after phd"
     url: "/consultations/careers-after-phd/"
   - title: "Studying in Europe"
     url: "/consultations/studying-in-europe/"
