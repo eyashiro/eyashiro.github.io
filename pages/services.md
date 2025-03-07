@@ -183,6 +183,11 @@ Check out my research portfolio to learn about my experiences in data analysis a
 <div style="text-align:center;"><img src="../images/services-Rsupport.jpg" style="border:1px solid black"></div>
 
 ## Research Support and Operations
+What could you accomplish with two or more extra hours a week?<br />
+~ Let's make it a reality!
+
+Get on-demand help so your time is prioritized on core tasks that matter most.
+
 Delegate off-loadable tasks to alleviate your busy schedule. Get the help you need to meet deadlines. Boost productivity and improve output!
 
 Here are some examples. Read more about how clients and past employers were supported <a href="../portfolio/research-operations/index.html">here</a>.
@@ -205,6 +210,11 @@ Here are some examples. Read more about how clients and past employers were supp
     Handle negotiations with vendors for sequencing and consumable prices and deliver ready-to-use price offers (EU, CH, UK). Data entry. Complete miscellaneous off-loadable tasks that are getting in the way of your meetings and other priorities.</p>
   </div>
 </div>
+
+<br />
+<div style="text-align:center;"><img src="../images/240902_Too much work.jpg" style="border:1px solid black"></div>
+<br />
+<div style="text-align:center;"><img src="../images/250203_stress_levels1.2.jpg" style="border:1px solid black"></div>
 
 <br /><br />
 <a href="../contact/index.html">Contact me!</a>
@@ -249,7 +259,7 @@ Below are the three main things I look out for in your written work:
 </div>
 
 ### Types of documents
-**Technical documents:** STEM and clinical sciences
+**Technical documents:** STEM and Clinical Sciences
 * Reports
 * Manuscripts
 * White papers
@@ -262,7 +272,7 @@ Below are the three main things I look out for in your written work:
 * Protocols
 * and more.
 
-**Other document types:**
+**Other document types:** General Topics
 * Emails
 * Webpages
 * College application essays
@@ -394,9 +404,13 @@ Standardizing experimental procedures forms the foundation of good research prac
 
 ## Science Writing
 
-Did you like the articles I've been posting through LinkedIn and Medium?
+Making science and innovation accessible to broader audiences requires skills in science communication and storytelling.
 
-Get in touch with me if interested.
+Get web articles and educational materials written in plain English and maximize their impact on stakeholders, students, and the community!
+
+Find examples of community articles under the RESOURCES tab in the menu.
+
+Reach out if you'd like to have your own writer or ghostwriter!
 
 <br />
 <a href="../contact/index.html">Contact me!</a>
