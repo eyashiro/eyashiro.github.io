@@ -212,7 +212,7 @@ Here are some examples. Read more about how clients and past employers were supp
 </div>
 
 <br />
-<div style="text-align:center;"><img src="../images/240902_Too much work.jpg" style="border:1px solid black"></div>
+<div style="text-align:center;"><img src="../images/240902_Too_much_work.jpg" style="border:1px solid black"></div>
 <br />
 <div style="text-align:center;"><img src="../images/250203_stress_levels1.2.jpg" style="border:1px solid black"></div>
 
@@ -231,14 +231,15 @@ Here are some examples. Read more about how clients and past employers were supp
 
 ## Editing and Proofreading (Scientific + General)
 
-Disseminate your ideas, attract customers, and apply to prestigious agencies in proper English!
+Grammar mistakes and convoluted sentences kill your readers’ attention.
 
-Get your scientific and non-technical documents checked and polished. The goal is to help you overcome the language barrier and ensure that people will read, understand, and appreciate every bit of your writing.
+Get awkward sentences smoothed out, clarity improved, and ensure your writing meets stakeholder expectations and publication standards.
 
+Overcome language barriers and communicate your messages effectively with expert editing and proofreading.
 
 <a href="../portfolio/editing/index.html"> Click here</a> if interested in my editing credentials.
 
-Below are the three main things I look out for in your written work:
+Here are three important things that will be carefully checked in your writing
 <br /><br />
 <div class="row" id="container">
   <div class="medium-4 column">
