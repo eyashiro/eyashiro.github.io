@@ -360,14 +360,14 @@ Unless requested, the reference section of scientific documents is not checked b
 <div style="text-align:center;"><img src="../images/services-technical-scientific-writing.jpg" style="border:1px solid black"></div>
 
 ## Technical and Scientific Writing
-Do you have data but haven't had time to write the report?
+Do you have data but haven't had time to write the report or research article?
 
-Do you want to disseminate your company's scientific and technical prowess?
+Do you need to compelling content to highlight your company's scientific and technical prowess?
 
 Standardizing experimental procedures forms the foundation of good research practices, but who had time to write up the protocol?
 
 
-#### Here are examples of how I can help:
+#### Here are examples of what I can write:
 
 <br />
 <div class="row" id="container">
