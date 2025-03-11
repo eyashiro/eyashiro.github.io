@@ -55,16 +55,30 @@ homepage: true
 <div class="mar">
   <h2>I help busy scientists improve their productivity, meet deadlines, and complete projects by offering personalized services that target their specific needs.</h2>
   <br />
-  <p> <b>Life Sciences Research Support offers services in R&D data analysis, research operations, editing and proofreading, and scientific content creation.</b> </p>
+<p style="text-align:center;"><font size="+3">~~~</font></p>
+
+
+  <h3>Life Sciences Research Support offers services in R&D data analysis, research operations, editing and proofreading, and scientific content creation.</h3>
+    <br />
+<p style="text-align:center;"><font size="+3">~~~</font></p>
+
+  <br />
 
   <p>I'm Dr. Erika Yashiro. Thank you for visiting my website!</p>
 
-  <p>I have more than 20 years of experience in the life sciences research and research support. My experiences include research work in bioinformatics and computational biology, as well as running research infrastructure, like DNA sequencing and bioinformatics facilities. I've also completed a certificate in editing and proofreading. </p>
+  <p>I offer <b>value</b> to my clients by helping them improve their <b>productivity</b> and the <b>quality of their output</b>. </p>
 
-  <p>I offer services to scientists in academia and industry that help improve their productivity and output. I also offer editing and proofreading services to a broader community of professionals and students. Check out my service offers! </p>
+  <p>You might think that the services I offer seem a bit broad. The truth is, they are because <b>every person and team has their own unique pain points</b>.</p>
+
+  <p>And my mission is pretty simple: <b><i>Target your individual needs with personalized support</i></b>.</p>
+
+
+  <p>I also collaborate with a couple other freelancers to offer a broader range of high-quality services. So, if you sometimes hear me talking about <i>our</i> services, you now know what I mean!</p>
+
+  <p>Beyond scientists, I also help <b>a broader community</b> of professionals and students by <b>editing and proofreading</b> all types of documents, including websites. <i>Check out my service offers in the menu above!</i> </p>
 
   <p>
-  <a href="../contact/index.html">Contact me</a> to discuss your specifics needs and/or if you're in one of these icky situations below: </p>
+  <a href="../contact/index.html"><b><i>Contact me</i></b></a> to discuss your <b>specific needs</b> and/or if you're in one of these <b>icky situations</b> below: </p>
   <p>
   &#10132; You need additional staff to delegate work to. <br />
   &#10132; Your staff leaves before finishing projects, and you need someone to finish projects and write the reports. <br />
@@ -72,22 +86,22 @@ homepage: true
   &#10132; You have data but don't know how or don't have time to analyze them. <br />
   &#10132; You want the maximum impact from your written work. <br />
   &#10132; You need help polishing the English and general state of your documents. <br />
-  &#10132; You wish to have an external peer review with quick turnaround time before submitting manuscripts to journals. <br />
+  &#10132; You wish to have an external peer review with a quick turnaround time before submitting manuscripts to journals. <br />
   &#10132; You're overwhelmed and want to delegate tasks like submitting sequences to Genbank, polishing user guides, data entry, analysis software installations, etc. <br />
   &#10132; You have too much administrative work to do and wish to delegate some of that work.  <br />
-  &#10132; You're preparing presentations, reports, grant proposals, and teaching materials, and you need a hand to speed up content search and content generation. <br />
+  &#10132; You're preparing presentations, reports, grant proposals, and educational materials, and you need a hand to speed up content search and content generation. <br />
   &#10132; You have other specific needs. </p>
 
   <p>I look forward to working with you!</p>
 
   <br /><br />
-  <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
+  <p style="text-align:center;"><font size="+3">~~~</font></p>
   <br />
 
   <h3><a href="../contact/index.html">Invite me to give a presentation about my services! </a></h3>
 
   <br /><br />
-  <p style="text-align:center;"><font size="+3">~~~~~~~~~~~~~</font></p>
+  <p style="text-align:center;"><font size="+3">~~~</font></p>
   <br /><br />
 </div>
 
