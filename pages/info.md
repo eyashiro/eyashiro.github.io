@@ -15,11 +15,24 @@ header:
 ## Who I am and what I do...
 I bring over 20 years of experience in life sciences research and research support and operations.
 
-I earned a bachelor's degree from Cornell University (United States) in neurobiology and behavior, with minors in cognitive science and astronomy. I then earned a PhD in plant pathology at the University of Wisconsin in Madison (United States), where I studied epidemiology in agricultural crops and antibiotic resistance trends. With a Marie Curie IIF grant, I joined the University of Lausanne (Switzerland) as a junior lecturer and conducted research on microbiomes in the Swiss Alps in the context of climate change.
+#### Research career
+I earned a bachelor's degree from Cornell University (United States) in neurobiology and behavior. I also minored in cognitive science and astronomy.
 
-I then transitioned to a hybrid research and research support role. I worked as a bioinformatician at ETH Zurich (Switzerland). Then, I moved to Aalborg University (Denmark), where I spent several years as a staff scientist responsible for one of the institute's DNA sequencing facilities and bioinformatics HPC platform. Throughout those years, I continued contributing to research projects and publishing papers. Working for many years in research support taught me a great deal about service-oriented work ethics.
+I then earned a PhD in plant pathology at the University of Wisconsin in Madison (United States). During those years, I studied epidemiology in agricultural crops and antibiotic resistance trends.
 
-Now, as an independent scientific contractor, I offer my diverse expertise to the global scientific community. Each person and team has highly specific needs. Therefore, I try to broaden my range of expertise to provide the most personalized, targeted level of support and services.
+With a Marie Curie IIF grant, I continued my scientific journey and joined the University of Lausanne (Switzerland) as a junior lecturer. I conducted research on microbiomes in the Swiss Alps in the context of climate change, and I've continued collaborating with my colleagues on that project to this day.
+
+#### One foot out and one foot in
+I then transitioned to a hybrid research and research support role.
+
+I worked as a bioinformatician at ETH Zurich (Switzerland).
+
+Then, I moved to Aalborg University (Denmark). There, I spent several years as a staff scientist responsible for one of the institute's DNA sequencing facilities and bioinformatics HPC platform. Throughout those years, I continued contributing to research projects and publishing papers.
+
+Working for many years in research support also taught me a great deal about service-oriented work ethics.
+
+#### Bringing all skills together
+Now, as an independent scientific contractor, I offer my diverse expertise to the global scientific community. Each person and each team has highly specific pain points and needs. Therefore, I try to broaden my range of expertise to provide the most personalized, targeted level of support and services.
 
 I really enjoy helping people succeed and solving complex problems. I'm also always eager to learn new skills on the job to be better able to help out.
 
@@ -44,6 +57,8 @@ It's no fun to feel stressed, overworked, and overwhelmed with work and to watch
 I can speak and write English and French. I can have simple conversations in Japanese and have a basic understanding of German.
 
 ### Do you work with companies aside from academia?
-Yes, I do. I work with companies, non-profits, academic research teams, and individuals.
+Yes, I do!
+
+I work with companies, start-ups, non-profits, academic research teams, and individuals.
 
 If you're from a start-up, you may also find my generalist skill set very attractive to have on your team!
