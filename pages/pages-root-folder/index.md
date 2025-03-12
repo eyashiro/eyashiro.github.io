@@ -73,7 +73,7 @@ homepage: true
   <p>And my mission is pretty simple: <b><i>Target your individual needs with personalized support</i></b>.</p>
 
 
-  <p>I also collaborate with a couple of other freelancers to offer a broader range of high-quality services. So, if you sometimes hear me talking about <i>our services</i>, you now know what I mean!</p>
+  <p><b>Why do my flyers talk about "our" services?</b> I also collaborate with a couple of other freelancers to offer a broader range of high-quality services. So, if you sometimes hear me talking about <i>our services</i>, you now know what I mean!</p>
 
   <p>Beyond scientists, I also help <b>a broader community</b> of professionals and students by <b>editing and proofreading</b> all types of documents, including websites. <i>Check out my service offers in the menu above!</i> </p>
 
