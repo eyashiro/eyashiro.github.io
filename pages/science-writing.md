@@ -45,7 +45,7 @@ header: no
     <p><small>MEDICAL WRITING & COMMUNICATION</small></p>
     <a href="https://medium.com/@eyashiro/understanding-heart-murmurs-in-newborns-f4a4751c21ab"><img src="../../images/250317_heart-murmur.jpg"></a>
     <H3><a href="https://medium.com/@eyashiro/understanding-heart-murmurs-in-newborns-f4a4751c21ab">Understanding Heart Murmurs in Newborns</a></H3>
-    <p>By Erika (13-Jan-2025)</p>
+    <p>By Erika (17-Mar-2025)</p>
     How important are they?
   </div>
 
