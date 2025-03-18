@@ -37,3 +37,31 @@ header: no
     Teaching you how to think like a researcher with a case study in Portugal
   </div>
 </div>
+
+<br />
+
+<div class="row">
+  <div class="medium-4 column">
+    <p><small>MEDICAL WRITING & COMMUNICATION</small></p>
+    <a href="https://medium.com/@eyashiro/understanding-heart-murmurs-in-newborns-f4a4751c21ab"><img src="../../images/250317_heart-murmur.jpg"></a>
+    <H3><a href="https://medium.com/@eyashiro/understanding-heart-murmurs-in-newborns-f4a4751c21ab">Understanding Heart Murmurs in Newborns</a></H3>
+    <p>By Erika (13-Jan-2025)</p>
+    How important are they?
+  </div>
+
+  <div class="medium-4 column">
+    <p><small></small></p>
+    <a href=""><img src=""></a>
+    <h3><a href=""></a></h3>
+    <p></p>
+
+  </div>
+
+  <div class="medium-4 column">
+    <p><small></small></p>
+    <a href=""><img src=""></a>
+    <h3><a href=""></a></h3>
+    <p></p>
+
+  </div>
+</div>
