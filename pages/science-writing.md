@@ -26,7 +26,7 @@ header: no
     <a href="https://medium.com/@eyashiro/the-intertwined-nature-of-climate-change-and-microplastics-3416942d1725"><img src="../../images/241223_Climate change and microplastics_thumbnail.jpg"></a>
     <h3><a href="https://medium.com/@eyashiro/the-intertwined-nature-of-climate-change-and-microplastics-3416942d1725">The Intertwined Nature of Climate Change and Microplastics</a></h3>
     <p>By Erika (23-Dec-2024)</p>
-    Beyond the PhD: Navigating Unseen Opportunities in Academia
+    Two of the most pressing environmental issues of our time must be tackled together.
   </div>
 
   <div class="medium-4 column">
