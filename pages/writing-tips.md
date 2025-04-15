@@ -4,7 +4,7 @@ layout: page-fullwidth
 title: "Resources: Writing tips"
 #subheadline: ""
 #teaser: ""
-permalink: "/resources/writing-tips/"
+permalink: "/blog/writing-tips/"
 header: no
 #    image: "header_services.jpg"
 #    background-color: ""

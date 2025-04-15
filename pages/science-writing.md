@@ -1,10 +1,10 @@
 ---
 #layout: page
 layout: page-fullwidth
-title: "Rseources: Science writing"
+title: "Resources: Science and Medical writing"
 #subheadline: ""
 #teaser: ""
-permalink: "/resources/science-writing/"
+permalink: "/blog/science-writing/"
 header: no
 #    image: "header_services.jpg"
 #    background-color: ""

@@ -4,7 +4,7 @@ layout: page-fullwidth
 title: "Resources: Careers in STEM"
 #subheadline: ""
 #teaser: ""
-permalink: "/resources/careers-in-stem/"
+permalink: "/blog/careers-in-stem/"
 header: no
 #    image: "header_services.jpg"
 #    background-color: ""
