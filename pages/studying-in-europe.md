@@ -40,7 +40,7 @@ Please read and agree to the disclaimer part further below before you book!
 
 | Length   | |    30-minutes   |
 |----------|-|:---------------:|
-| Price    | |     70 eur      |
+| Price    | |     ~~70~~ 35 eur     |
 | Software | |      Zoom       |
 |          | |   [Book now][1] |
 
