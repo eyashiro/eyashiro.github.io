@@ -50,18 +50,20 @@ header: no
   </div>
 
   <div class="medium-4 column">
-    <p><small></small></p>
-    <a href=""><img src=""></a>
-    <h3><a href=""></a></h3>
-    <p></p>
+    <p><small>MEDICAL WRITING & COMMUNICATION</small></p>
+    <a href="https://medium.com/@eyashiro/how-the-gut-microbiome-influences-prediabetes-development-1-7542a3f48ece"><img src="../../images/250415_prediabetes-gut-microbiome_thumbnail.jpg"></a>
+    <h3><a href="https://medium.com/@eyashiro/how-the-gut-microbiome-influences-prediabetes-development-1-7542a3f48ece">How the Gut Microbiome Influences Prediabetes Development (#1)</a></h3>
+    <p>By Erika (16-Apr-2025)</p>
+    <p><b>Key Mechanisms Linking the Gut Microbiome to Prediabetes</b> <br />Scientific research has made great strides in understanding how the gut is involved in prediabetes. Read about the evidence that backs your doctor’s recommendations.</p>
 
   </div>
 
   <div class="medium-4 column">
-    <p><small></small></p>
-    <a href=""><img src=""></a>
-    <h3><a href=""></a></h3>
-    <p></p>
+    <p><small>MEDICAL WRITING & COMMUNICATION</small></p>
+    <a href="https://medium.com/@eyashiro/how-the-gut-microbiome-influences-prediabetes-development-2-1621d0eed39a"><img src="../../images/250416_prediabetes-gut-microbiome-2_thumbnail.jpg"></a>
+    <h3><a href="https://medium.com/@eyashiro/how-the-gut-microbiome-influences-prediabetes-development-2-1621d0eed39a">How the Gut Microbiome Influences Prediabetes Development (#2)</a></h3>
+    <p>By Erika (16-Apr-2025)</p>
+    <p><b>Lifestyle Interventions and their Impact on the Gut Microbiome</b> <br />Read about the evidence that backs your doctor’s recommendations.</p>
 
   </div>
 </div>
