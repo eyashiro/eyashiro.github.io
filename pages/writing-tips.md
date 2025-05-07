@@ -28,7 +28,7 @@ header: no
   </div>
 
   <div class="medium-4 column">
-    <a href=""><img src="../images/"></a>
+    <a href=""><img src=""></a>
     <h3><a href="#Editing"></a></h3>
   </div>
 </div>
