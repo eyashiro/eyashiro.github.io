@@ -54,20 +54,20 @@ Click <a href="../editing/index.html">here</a> to lear about the <a href="../edi
 2023-present
 
 #### Project-based Support
-* Analyzed the NGS sequencing data, co-wrote the manuscript after the client's staff left.
-* Helped to set up a new research project where my expertise was needed.
-* Project lead (remote)
-* Consulting in areas of microbial ecology
-* AI tutor/trainer domain expert in biology
+* Analyzed NGS sequencing data, co-wrote the manuscripts.
+* Helped set up a new research project that required my expertise.
+* Project lead (remote).
+* Consulting and tutoring in  microbial ecology and bioinformatics.
+* AI tutor/trainer domain expert in biology.
 
 
 #### Task-based Support
-* NGS data management and archiving
-* Data entry
-* Wrote scripts to automate data processing and analysis workflows
-* Wrote protocols
+* NGS data management and archiving.
+* Data entry.
+* Wrote scripts to automate data processing and analysis workflows.
+* Wrote protocols.
 * Negotiated with vendors and obtained attractive price offers for lab equipment and consumables.
-* <a href="../editing/index.html">Edited and proofread</a> manuscripts, cover letters, thesis, and website. For substantive edits, I also provided more in-depth suggestions on the science.
+* <a href="../editing/index.html">Edited and proofread</a> manuscripts, cover letters, theses, abstracts, and website. For substantive edits, I also provided more in-depth suggestions on the science.
 
 <br />
 # Past employment in research support
@@ -78,22 +78,22 @@ Click <a href="../editing/index.html">here</a> to lear about the <a href="../edi
 
 #### Research projects:
 
-* Developed and maintained standard and project-specific analytical workflows for NGS data
-* Bioinformatics and statistical analysis for primary and collaborative projects
-* Consulting service for workflow developments, biostatistics, and data analysis
-* Teaching support in molecular biology, microbial ecology, and bioinformatics
+* Developed and maintained standard and project-specific analytical workflows for NGS data.
+* Bioinformatics and statistical analysis for primary and collaborative projects.
+* Consulting service for workflow developments, biostatistics, and data analysis.
+* Teaching support in molecular biology, microbial ecology, and bioinformatics.
 
 #### Computational infrastructure:
 
-* Systems administrator of the Biotech Section's bioinformatics servers 
-* Scientific software installations/updates/patching
-* lmod software modules maintenance using Easybuild
-* Developed some container-based solutions for bioinformatics projects
-* Collaborated with IT support team to migrate the bio-servers to cloud computing
+* Systems administrator of the Biotech Section's bioinformatics servers .
+* Scientific software installations/updates/patching.
+* lmod software modules maintenance using Easybuild.
+* Developed some container-based solutions for bioinformatics projects.
+* Collaborated with IT support team to migrate the bio-servers to cloud computing.
 
 #### Sequencing infrastructure:
 
-* Responsible for operating and maintaining Illumina MiSeq, HiSeq 2500, cBot platforms and primary data analysis
+* Responsible for operating and maintaining Illumina MiSeq, HiSeq 2500, cBot platforms and primary data analysis.
 
 <br />
 
@@ -102,8 +102,8 @@ Click <a href="../editing/index.html">here</a> to lear about the <a href="../edi
 #### Zurich, Switzerland
 2017
 
-* Bioinformatic pipeline development for metagenomes
-* Analyzed the effect of diet on animal gut microbiomes
+* Bioinformatic pipeline development for metagenomes.
+* Analyzed the effect of diet on animal gut microbiomes.
 
 <br />
 
@@ -112,7 +112,7 @@ Click <a href="../editing/index.html">here</a> to lear about the <a href="../edi
 #### Ithaca, NY, United States
 2002-2005
 
-* Managed lab supplies and lab safety
-* Negotiated with vendors to obtain attractive prices for large equipment
-* Supervised lab assistants (hiring, onboarding, timesheet approval, supervision of lab helpers)
+* Managed lab supplies and lab safety.
+* Negotiated with vendors to obtain attractive prices for large equipment.
+* Supervised lab assistants (hiring, onboarding, timesheet approval, supervision of lab helpers).
 * Provided research support within the research group.
