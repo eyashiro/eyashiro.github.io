@@ -22,7 +22,7 @@ Email:** eyashiro2[at}gmail-dot-com
 <br /><br />
 
 <br />
-This website uses Simple Analytics, a privacy-first Google Analytics alternative. <a href="https://www.simpleanalytics.com/?referral=kotek-tof">If you're interested in trying it out on your own website, I get a little tip from the developers if you use this affiliate link.</a> Thanks!
+This website uses <a href="https://www.simpleanalytics.com/?referral=kotek-tof">Simple Analytics</a>, a privacy-first Google Analytics alternative. <a href="https://www.simpleanalytics.com/?referral=kotek-tof">If you're interested in trying it out on your own website, I get a little tip from the developers if you use this affiliate link.</a> Thanks!
 
 <br /><br />
 

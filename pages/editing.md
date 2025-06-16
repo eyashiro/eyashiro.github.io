@@ -74,6 +74,17 @@ header:
   </div>
 </div></div>
 
+<div class="mar">
+<div class="row">
+    <img src="../../images/quotation_mark.png" class="center">
+    <p style="text-align:center">"I worked with Erika to proofread my PhD thesis, a significant and complex piece of work, and I couldn’t be more satisfied with the experience. From the start, Erika was professional, flexible, and collaborative, helping me find the right schedule, pricing, and structure that worked for my needs and deadlines.</p>
+    <p>Erika brings a depth of knowledge and experience in the life sciences and it is reflected in every aspect of her work. She doesn’t just proofread, she truly understands the content. She was able to flag nuanced issues, suggest improvements that strengthened the clarity and precision of my arguments, and provide valuable insights on my work as well as tips for success. </p>
+    <p>She sent clear, detailed pricing breakdowns and debriefs, communicated regularly, and always explained her process so I knew exactly what to expect. Her research background and ability to support complex academic writing made a real difference, and her attention to detail gave me even more confidence in the final product.</p>
+    <p>Overall, Erika was thorough, knowledgeable, and an absolute lifesaver under pressure. I felt relieved knowing I had a second pair of expert eyes validating my work. I would absolutely recommend her to any researcher or scientist looking for high-quality support with their writing and projects."</p>
+    <p style="text-align:center">Mariela Mihaylova<br />Former graduate student at University of Geneva</p>
+    <br />
+</div></div>
+
 <br /><br />
 
 ## Samples of edited work

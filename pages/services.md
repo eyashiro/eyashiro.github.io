@@ -171,7 +171,19 @@ Check out my research portfolio to learn about my experiences in data analysis a
 
 #### I can also polish what you've already written. Check out my <a href="index.html#Editing">editing and proofreading service</a>.
 <br /><br />
-<a href="../contact/index.html">Contact me!</a>
+
+#### *Interested in knowing if I can do the job? <br /> Learn more about my past projects, jobs, and clients:*
+* <a href="../../portfolio/research/index.html">Research projects</a>
+* <a href="../../portfolio/publications/index.html">Publications</a>
+* <a href="../../portfolio/teaching/index.html">Teaching</a>
+
+<br />
+<a href="../contact/index.html"><font size="+1">Contact me!</font></a>
+
+
+<br /><br />
+
+
 
 <p style="text-align:right;"><a href="#Top">Back to top</a></p>
 
@@ -217,7 +229,12 @@ Here are some examples. Read more about how clients and past employers were supp
 <div style="text-align:center;"><img src="../images/250203_stress_levels1.2.jpg" style="border:1px solid black"></div>
 
 <br /><br />
-<a href="../contact/index.html">Contact me!</a>
+#### *Interested in knowing if I can do the job? <br /> Learn more about my past projects, jobs, and clients:*
+* <a href="../../portfolio/research-operations/index.html">Research support and operations</a>
+
+
+<br />
+<a href="../contact/index.html"><font size="+1">Contact me!</font></a>
 
 <p style="text-align:right;"><a href="#Top">Back to top</a></p>
 
@@ -300,7 +317,12 @@ Unless requested, the reference section of scientific documents is not checked b
 \*\* The word rate will be determined upon inspection of the document's writing quality. The top-up is to account for the extra time I will need to correct a very poorly written document. It is my experience that most documents are polished enough when handed to me that the top-up is not required.
 
 <br />
-<a href="../contact/index.html">Contact me!</a>
+#### *Interested in knowing if I can do the job? <br /> Learn more about my past projects, jobs, and clients:*
+* <a href="../../portfolio/editing/index.html">Editing and proofreading</a>
+
+
+<br />
+<a href="../contact/index.html"><font size="+1">Contact me!</font></a>
 
 <script>
     function calculatePrice() {
@@ -392,7 +414,14 @@ Standardizing experimental procedures forms the foundation of good research prac
 </div>
 
 <br />
-<a href="../contact/index.html">Contact me!</a>
+#### *Interested in knowing if I can do the job? <br /> Learn more about my past projects, jobs, and clients:*
+* <a href="../../portfolio/publications/index.html">Research publications</a>
+* <a href="../../portfolio/editing/index.html">Editing and proofreading</a>
+* <a href="../../blog/science-writing/index.html">Science writing</a>
+
+<br />
+<a href="../contact/index.html"><font size="+1">Contact me!</font></a>
+
 
 <p style="text-align:right;"><a href="#Top">Back to top</a></p>
 
@@ -409,12 +438,20 @@ Making science and innovation accessible to broader audiences requires skills in
 
 Get web articles and educational materials written in plain English and maximize their impact on stakeholders, students, and the community!
 
-Find examples of community articles under the RESOURCES tab in the menu.
+Find examples of community articles under the BLOG tab in the menu.
 
 Reach out if you'd like to have your own writer or ghostwriter!
 
 <br />
-<a href="../contact/index.html">Contact me!</a>
+#### *Interested in knowing if I can do the job? <br /> Learn more about my past projects, jobs, and clients:*
+* <a href="../../blog/science-writing/index.html">Science and medical writing</a>
+* <a href="../../blog/writing-tips/index.html">Writing tips</a>
+* <a href="../../blog/careers-in-stem/index.html">Careers in STEM</a>
+* <a href="../../portfolio/publications/index.html">Research publications</a>
+
+<br />
+<a href="../contact/index.html"><font size="+1">Contact me!</font></a>
+
 <p style="text-align:right;"><a href="#Top">Back to top</a></p>
 
 <br /><br />
