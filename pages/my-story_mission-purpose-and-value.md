@@ -6,7 +6,7 @@ subheadline: "Life Sciences Research Support"
 permalink: "/posts/my-story_mission-purpose-and-value/"
 header:
     image: "header_my-story.jpg"
-#    background-color: "#F6FAAE"
+    background-color: "#fff6d4"
 ---
 
 <style>
