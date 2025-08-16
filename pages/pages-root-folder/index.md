@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image: header_index.jpg
   background-color: "#fff6d4"
-widget1:
-  title: "Portfolio"
-  url: 'http://eyashiro.github.io/portfolio/'
-  image: widget-1-302x182.jpg
-  text: 'Find out more about my skills and experiences from the last >20 years.'
-widget2:
-  title: "Services"
-  url: 'http://eyashiro.github.io/services/'
-  text: 'Every person needs support in different ways.<br/> 1. Research and Development <br/> 2. Administrative and Technical Support <br/> 3. Editing and Proofreading <br /> 4. Technical and Scientific Writing<br /> 5. Science Writing <br /> 6. Consultations'
-widget3:
-  title: "About me"
-  url: 'https://eyashiro.github.io/about/info/'
-  image: widget-github-303x182.jpg
-  text: 'Read about who I am, what I do, and why this work is so important to me.'
+#widget1:
+#  title: "Portfolio"
+#  url: 'http://eyashiro.github.io/portfolio/'
+#  image: widget-1-302x182.jpg
+#  text: 'Find out more about my skills and experiences from the last >20 years.'
+#widget2:
+#  title: "Services"
+#  url: 'http://eyashiro.github.io/services/'
+#  text: 'Every person needs support in different ways.<br/> 1. Research and Development <br/> 2. Administrative and Technical Support <br/> 3. Editing and Proofreading <br /> 4. Technical and Scientific Writing<br /> 5. Science Writing <br /> 6. Consultations'
+#widget3:
+#  title: "About me"
+#  url: 'https://eyashiro.github.io/about/info/'
+#  image: widget-github-303x182.jpg
+#  text: 'Read about who I am, what I do, and why this work is so important to me.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -48,60 +48,65 @@ homepage: true
   margin-left: 20px;
   margin-right: 20px;
   }
+
+.button0 {
+  border: non;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.button1 {background-color: #04AA6D;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+
+.buttons-inline {
+  display: flex;
+  gap: 12px;            /* controls spacing */
+  justify-content: center;
+  flex-wrap: wrap;
+  }
 </style>
 
-<br/>
-<br/>
+
+  <h2>Meet Dr. Erika Yashiro </h2>
+  <p>
+  &#10132; Independent life scientist specializing in science communication, grant writing, and research support. <br />
+  &#10132; I help you obtain grants, publish with clarity, meet deadlines, and finish stalled projects. <br />
+  Click on <a href="../../posts/my-story_mission-purpose-and-value/index.html">Read My Story</a> to learn more.</p>
+
+  <h2>Proven Expertise</h2>
+  <p>20+ years of experience across research, operational bionformatics, and high-impact writing, with testimonials from universities, research institutes, and industry collaborators.</p>
+
+<br />
+
 <div class="mar">
-  <h2>Mission: <i>I help busy scientists improve their productivity, meet deadlines, and complete projects by offering personalized services that target their specific needs.</i></h2>
-  <br />
-<p style="text-align:center;"><font size="+3">~~~</font></p>
-
-
-  <h3>Life Sciences Research Support offers services in R&D data analysis, research operations, editing and proofreading, and science communication.</h3>
+<div class="row">
+  <div class="medium-4 column">
+    <p><a class="button0 button2" href="../../posts/my-story_mission-purpose-and-value/index.html">Read My Story</a></p>
     <br />
-<p style="text-align:center;"><font size="+3">~~~</font></p>
+  </div>
 
-  <br />
+  <div class="medium-4 column">
+    <p><a class="button0 button2" href="../../services/index.html">View Services</a></p>
+    <br />
+  </div>
 
-  <p>I'm Dr. Erika Yashiro. Thank you for visiting my website!</p>
-
-  <p>I offer <b>value</b> to my clients by helping them improve their <b>productivity</b> and the <b>quality of their output</b>. </p>
-
-  <p>You might think that the services I offer seem a bit broad. The truth is, they are because <b>every person and team has their own unique pain points</b>.</p>
-
-  <p>And my mission is pretty simple: <b><i>Target your individual needs with personalized support</i></b>.</p>
-
-  <p>Beyond scientists, I also help <b>a broader community</b> of professionals and students by <b>editing and proofreading</b> all types of documents, including websites. <i>Check out my service offers in the menu above!</i> </p>
-
-  <p>
-  <a href="../contact/index.html"><b><i>Contact me</i></b></a> to discuss your <b>specific needs</b> and/or if you're in one of these <b>icky situations</b> below: </p>
-  <p>
-  &#10132; You need additional staff to delegate work to. <br />
-  &#10132; Your project needs a particular expertise or administrative and technical support. <br />
-  &#10132; You have data but don't know how or don't have time to analyze them. <br />
-  &#10132; You want the maximum impact from your written work. <br />
-  &#10132; You need help polishing and proofreading your documents. <br />
-  &#10132; You need an external peer review with a quick turnaround time before submitting manuscripts to journals. <br />
-  &#10132; You're overwhelmed and want to delegate tasks like submitting sequences to Genbank, polishing user guides, data entry, analysis software installations, etc. <br />
-  &#10132; You have too much administrative work and wish to delegate some of that work.  <br />
-  &#10132; You're preparing presentations, reports, grant proposals, and educational materials, and you need a hand to speed up content search and content generation. <br />
-  &#10132; You have other specific needs. </p>
-
-  <p>I look forward to working with you!</p>
-
-  <br /><br />
-  <p style="text-align:center;"><font size="+3">~~~</font></p>
-  <br />
-
-  <h3><a href="../contact/index.html">Invite me to give a presentation about my services! </a></h3>
-
-  <br /><br />
-  <p style="text-align:center;"><font size="+3">~~~</font></p>
-  <br /><br />
+  <div class="medium-4 column">
+    <p><a class="button0 button2" href="../../contact/index.html">Email or Book a Meeting</a></p>
+    <br />
+  </div>
 </div>
 
-<br /><br />
+
+  <br /><br />
+  <p style="text-align:center;"><font size="+3">~~~</font></p>
+  <br /><br />
 
 
 <h1 class="mar">Some of my clients</h1>

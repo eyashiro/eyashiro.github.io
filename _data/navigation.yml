@@ -59,12 +59,14 @@
   url: "/blog/science-writing/"
   side: left
   dropdown:
-  - title: "Writing tips"
-    url: "/blog/writing-tips/"
+  - title: "Resources: Working Together"
+    url: "/blog/resources-working-together"
   - title: "Careers in STEM"
     url: "/blog/careers-in-stem/"
   - title: "Science and Medical writing"
     url: "/blog/science-writing/"
+  - title: "Writing tips"
+    url: "/blog/writing-tips/"
 
 - title: "About"
   url: "/about/info/"
