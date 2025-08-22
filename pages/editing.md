@@ -11,8 +11,7 @@ header:
 
 <br />
 
-## Academic clients
-**Edited and proofread so far:** manuscripts and doctoral theses
+## Some of my academic clients
 <br />
 <div class="mar">
 <div class="row">
@@ -28,10 +27,11 @@ header:
 </div>
 </div>
 
+<br />
+**Edited and proofread so far:** manuscripts and doctoral theses
 <br /><br />
 
-## Commercial clients
-**Edited and proofread so far:** websites, manuscripts, abstracts, and cover letters
+## Some of my commercial clients
 <br />
 <div class="mar">
 <div class="row">
@@ -46,6 +46,9 @@ header:
   </div>
 </div>
 </div>
+
+<br />
+**Edited and proofread so far:** websites, manuscripts, abstracts, and cover letters
 
 <br /><br />
 

@@ -55,9 +55,9 @@ My aim is to be a reliable partner who can step in quickly, understand your team
 
 ## Where Do I Add The Most Value?
 
-* **Grant writing:** Help time-constrained scientists and novices write clear, compelling narratives and increase grant output and chances of obtaining grants.
-* **Editing and scientific/technical writing:** Improve clarity, accuracy, and impact of manuscripts, grant proposals, theses, and user guides, especially for non-native English authors
-* **Rapid, reliable help:** Step in when you need extra staff or when deadlines loom and finish research, technical, or administrative projects and tasks to make stakeholders happy.
+* **Grant writing:** Help time-constrained scientists and novices write clear, compelling narratives and increase the number of grants you can apply to each year.  Increasing the quality and quantity of proposals through our collaboration increases your chances of obtaining grants.
+* **Editing and scientific/technical writing:** Improve the clarity, accuracy, and impact of your manuscripts, grant proposals, theses, and user guides, especially if you're a non-native English author.
+* **Rapid, reliable help:** Step in when you need extra staff or when deadlines loom, and finish research, technical, or administrative projects/tasks to make your stakeholders happy.
 * **Research support:** Troubleshoot, analyze, and package NGS and bioinformatics results into clear figures, tables, and text for reports and manuscripts.
 * **Operational bioinformatics:** Support non-experts of NGS data handling and novices, document processes, and support day-to-day research operations so projects keep moving.
 
@@ -67,11 +67,11 @@ My aim is to be a reliable partner who can step in quickly, understand your team
 * **Discovery:** We clarify goals, scope, timeline, rates, and confidentiality requirements.
 * **Proposal:** You get a clear plan with deliverables and milestones.
 * **Communication**: We regularly communicate updates and discuss the work in progress.
-* **Delivery:** You get the output in a timely fashion accompanied by a detailed report.
+* **Delivery:** You receive deliverables in a timely fashion accompanied by a detailed report.
 * **Follow-through:** Edits, revisions, and final polish as needed.
 
 ## What Do Clients Say?
-Simply put, I gain your trust by delivering high-quality output. Check out what some of my clients have written by <a href="../../index.html">clicking here</a>!
+My goal is to gain your trust by delivering high-quality output. Check out what some of my clients have written by <a href="../../index.html">clicking here</a>!
 
 <br />
 

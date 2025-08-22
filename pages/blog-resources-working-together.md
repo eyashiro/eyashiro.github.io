@@ -22,9 +22,12 @@ header: no
   </div>
 
   <div class="medium-4 column">
-    <p style="font-size:0.8em"></p>
-    <a href=""><img src=""></a>
-    <h3><a href="#Editing"></a></h3>
+    <p style="font-size:0.8em">LIFE SCIENCES RESEARCH SUPPORT</p>
+    <a href="../../posts/editing-rates-and-currency-calculator.html"><img src="../../images/services-editing.jpg"></a>
+    <h3><a href="../../posts/editing-rates-and-currency-calculator.html">Editing and Proofreading Services</a></h3>
+    <p>By Erika (20-Aug-2025)</p>
+    <p>(Scientific + General) <br />
+    Learn more about editing and proofreading services here.</p>
   </div>
 
   <div class="medium-4 column">
