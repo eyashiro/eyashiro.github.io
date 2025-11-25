@@ -19,17 +19,6 @@
   - title: "Research Support and Operations"
     url: "/services/index.html#Rsupport"
 
-- title: "Consultations"
-  url: "/services/index.html#Consultations"
-  side: left
-  dropdown:
-  - title: "Alternative careers for STEM researchers"
-    url: "/consultations/alternative-careers-for-stem-researchers/"
-  - title: "Alternative careers after phd"
-    url: "/consultations/careers-after-phd/"
-  - title: "Studying in Europe"
-    url: "/consultations/studying-in-europe/"
-
 - title: "Portfolio"
   url: "/portfolio/"
   side: left

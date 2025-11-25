@@ -140,6 +140,11 @@ Click on the icons below to jump to each topic or scroll down.
   <li class="pointright">Early-career researchers. </li>
 </ul>
 
+
+### Learn More About These Services
+* <a href="../../posts/grant-writing-and-consulting/index.html">Grant writing and consulting</a>
+
+
 <br />
 
 <div class="mar">
