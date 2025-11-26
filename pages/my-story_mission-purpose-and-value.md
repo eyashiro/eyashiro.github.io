@@ -39,7 +39,7 @@ header:
   }
 </style>
 
-I'm Dr. Erika Yashiro, an independent life scientist, editor, and science communicator. I help research teams and professionals move forward faster, effectively, and with more confidence. Over the last two decades, I gradually transitioned from field and lab work to bioinformatics, operational bioinformatics, expert editing, and science communication. Thanks to this broad range of hands-on experience and expertise, I'm able to see the bigger picture of projects and really connect the dots. It also allows me to deliver results under real-world constraints: tight timelines, shifting staff, and complex datasets and research infrastructure.
+I'm Dr. Erika Yashiro, an independent life scientist, grant writer, and science communicator. I help research teams and professionals move forward faster, effectively, and with more confidence. Over the last two decades, I gradually transitioned from field and lab work to bioinformatics, operational bioinformatics, expert editing, and science communication. Thanks to this broad range of hands-on experience and expertise, I'm able to see the bigger picture of projects and really connect the dots. It also allows me to deliver results under real-world constraints: tight timelines, shifting staff, and complex datasets and research infrastructure.
 
 ## Why Did I Build Life Sciences Research Support?
 Every project, team, and timeline is different, but the bottlenecks are often the same. Maybe you've experienced these too:
