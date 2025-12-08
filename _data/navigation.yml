@@ -42,12 +42,12 @@
   dropdown:
   - title: "Resources: Working Together"
     url: "/blog/resources-working-together"
+  - title: "Science and Medical Writing"
+    url: "/blog/science-writing/"
+  - title: "Grant Writing Tips"
+    url: "/blog/writing-tips/"
   - title: "Careers in STEM"
     url: "/blog/careers-in-stem/"
-  - title: "Science and Medical writing"
-    url: "/blog/science-writing/"
-  - title: "Writing tips"
-    url: "/blog/writing-tips/"
 
 - title: "About"
   url: "/about/info/"
