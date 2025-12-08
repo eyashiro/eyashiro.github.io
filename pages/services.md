@@ -142,8 +142,9 @@ Click on the icons below to jump to each topic or scroll down.
 
 
 ### Learn More About These Services
-* <a href="../../posts/grant-writing-and-consulting/index.html">Grant writing and consulting</a>
-
+* <a href="../../posts/grant-writing-and-consulting/index.html">Deep dive into Erika's grant writing and consulting services</a>
+* <a href="https://medium.com/write-your-world/the-grant-writing-misconception-blocking-peoples-success-5e92d230ebec">The grant writing misconception blocking people's success</a>
+* <a href="../../blog/writing-tips/">Grant writing tips</a>
 
 <br />
 
