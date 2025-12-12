@@ -52,13 +52,19 @@ Therefore, **grant writing services** might be interesting to you if you're one 
 
 ## Taking your projects to the next level
 
-**What you get.** I offer grant writing services to help you increase your chances of securing competitive funding and reaching your project goals. You'll benefit from my expertise, which stems from over two decades of experience in scientific research, research support, editing & proofreading, and science writing.
+#### What you get
+I offer grant writing services to help you increase your chances of securing competitive funding and reaching your project goals. You'll benefit from my expertise, which stems from over two decades of experience in scientific research, research support, editing & proofreading, and science writing.
 
-**Credentials.** *My early track* record as a research scientist includes successfully funded grants from the European Commission's FP7 Marie Curie program, the Agassiz Foundation, and other small and medium grants, as well as contributions to a USDA Hatch proposal. *Since 2025*, I've returned to the grant-writing scene and have been offering my expertise to help scientists and innovators develop attractive, targeted proposals.
+#### Credentials
+**My early track record** as a research scientist includes successfully funded grants from the European Commission's FP7 Marie Curie IIF program, the Agassiz Foundation, and other small and medium grants, as well as contributions to a USDA Hatch proposal. Back then, my success rate ~50%. <br />
+**Since 2025**, I've returned to the grant-writing scene and have been offering my expertise to help scientists and innovators develop attractive, targeted proposals. So far, I've worked on a number of EU Horizon and simliarly high-tiered grant proposals.
 
-**Tailored support.** We'll discuss your project needs and vision, clarify the details of the narrative, and develop the proposal(s) via iterative feedback so that the final product(s) reflect your vision.
+#### Tailored support
+We'll discuss your project needs and vision, clarify the details of the narrative, and develop the proposal(s) via iterative feedback so that the final product(s) reflect your vision.
 
-**Subject areas.** I mainly cover science and innovation topics related to life sciences, sustainability, and agriculture.
+#### Subject areas
+I mainly cover science and innovation topics related to the life sciences, sustainability, and agriculture. <br >
+All types of entities (SMEs, academics, nonprofits, RTOs, etc.) are welcome.
 
 I look forward to hearing from you! Let's discuss your **specific needs, feasibility, and timeline** for preparing your proposals!
 

@@ -116,17 +116,23 @@ Click on the icons below to jump to each topic or scroll down.
 </ul>
 
 ### Types of Deliverables:
+
+#### Funding strategy and opportunity scoping:
+<ul class="emoji-marker">
+  <li class="ok">Grant scoping and shortlisting. </li>
+  <li class="ok">Grant submission timeline planning </li>
+</ul>
+
 #### For smaller grants:
 <ul class="emoji-marker">
-  <li class="ok">Grant research. </li>
-  <li class="ok">Proposal strategy. </li>
+  <li class="ok">Proposal strategy development. </li>
   <li class="ok">Narrative drafting and revisisions. </li>
   <li class="ok">Cover letter drafting. </li>
 </ul>
 
 #### For larger grants:
 <ul class="emoji-marker">
-  <li class="no">Consortium management. </li>
+  <li class="no">Consortium building. </li>
   <li class="ok">Scheduling proposal partner brainstorm sessions. </li>
   <li class="ok">Support with keeping project partners on schedule. </li>
   <li class="ok">Narrative drafting and revisions. </li>
