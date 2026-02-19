@@ -45,15 +45,17 @@ header:
 
 **Competition for grants is super fierce at the moment.** Grant agencies and foundations are receiving more applications than ever. **Yet, you have a problem:** you need funds to run your program but can't increase the number of proposal submissions to keep up with the increasing competition.
 
-Therefore, **grant writing services** might be interesting to you if you're one of two types of people:
+Therefore, **grant writing services** might be interesting if you're one of these types of people:
 
 * **Type 1:** You're too busy to apply to more than one or so grants per season. You need help submitting more than that to increase your chances of being funded.
 * **Type 2:** Your team doesn't have experience in writing formal grant proposals. You need help writing attractive, structured narratives about your science and/or innovation that are specifically catered to the grant reviewers evaluating your applications.
+* **Type 3:** You'd like support in improving your proposal. This might be especially useful if your proposal was rejected, and you wish to prepare it for a resubmission.
+* **Type 4:** You're seeking additional external review to pinpoint gaps in your proposal.
 
 ## Taking your projects to the next level
 
 #### What you get
-I offer grant writing services to help you increase your chances of securing competitive funding and reaching your project goals. You'll benefit from my expertise, which stems from over two decades of experience in scientific research, research support, editing & proofreading, and science writing.
+My grant writing services will help you increase your chances of securing competitive funding and reaching your project goals. You'll benefit from my expertise, which stems from over two decades of experience in scientific research, research support, editing & proofreading, and science writing.
 
 #### Credentials
 **My early track record** as a research scientist includes successfully funded grants from the European Commission's FP7 Marie Curie IIF program, the Agassiz Foundation, and other small and medium grants, as well as contributions to a USDA Hatch proposal. Back then, my success rate ~50%. <br />

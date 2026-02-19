@@ -84,7 +84,7 @@ Click on the icons below to jump to each topic or scroll down.
 <div class="row">
   <div class="medium-4 column">
     <a href="#GrantWriting"><img alt="Grant Writing" src="../images/services-grant-writing.jpg" style="border:1px solid black"></a>
-    <p><a href="#GrantWriting">Grant Writing</a></p>
+    <p><a href="#GrantWriting">Grant Writing and Grant Review Support</a></p>
   </div>
 
   <div class="medium-4 column">
@@ -107,15 +107,44 @@ Click on the icons below to jump to each topic or scroll down.
 
 <div style="text-align:center;"><img src="../images/services-grant-writing.jpg" style="border:1px solid black"></div>
 
-## Grant Writing
+## Grant Writing and Grant Review Support
+
+### What people often lack:
+* **Thorough, in-depth content-level review** that helps focus a proposal's argument, logic, aims, and feasibility (rather than surface edits).
+* **A way to turn incomplete, vague ideas into a fundable narrative.** People often come up with great ideas but don't know where to start when it comes to writing the proposal.
+* **A proposal that's grant reviewer-skimmable and reviewer-targeted.** Experts often get critiqued for missing important details that are present in the proposal but hidden in a sea of technical details or written in unexpected places.
+* **An impact section that's coherent and impactful.** People are usually comfortable writing about their technical ideas but have difficulty describing how their project fits into a broader context.
+* **Alignment with funder priorities.** Proposals usually don't get funded when they don't align with all of the grant call's topic, scope, and funder's expectations.
+
+
 ### Value:
 <ul class="emoji-marker">
-  <li class="lightbulb">Write clear, persuasive, on-time grant applications. </li>
-  <li class="lightbulb">Increase the quality and quantity of proposals submitted each year. </li>
-  <li class="lightbulb">Increase funding success. </li>
+  <li class="lightbulb">You get clear, persuasive, on-time grant applications. </li>
+  <li class="lightbulb">Improved quality of proposals submitted each year. </li>
+  <li class="lightbulb">Increased funding success. </li>
 </ul>
 
 ### Types of Deliverables:
+
+#### Grant proposal review:
+<ul class="emoji-marker">
+  <li class="ok"> In-depth content-level proposal review report.</li>
+  <li class="ok"> Ready-to-(re)submit improved proposal (logic, readability/skimmability, alignment with review panel, substantive editing and proofreading). </li>
+</ul>
+
+#### Grant technical writing:
+<ul class="emoji-marker">
+  <li class="ok"> Ready-to-submit proposal draft. (Narrative drafting and revisions.) </li>
+  <li class="ok"> Option to draft specific sections of proposals (e.g., the impact section) instead of full proposals.</li>
+</ul>
+
+#### Project support:
+<ul class="emoji-marker">
+  <li class="ok"> Scheduling proposal partner brainstorm sessions.</li>
+  <li class="ok"> Support with keeping project partners on schedule.</li>
+  <li class="ok"> Other ad hoc support.</li>
+  <li class="no">Consortium building. </li>
+</ul>
 
 #### Funding strategy and opportunity scoping:
 <ul class="emoji-marker">
@@ -123,20 +152,9 @@ Click on the icons below to jump to each topic or scroll down.
   <li class="ok">Grant submission timeline planning </li>
 </ul>
 
-#### For smaller grants:
+#### Other:
 <ul class="emoji-marker">
-  <li class="ok">Proposal strategy development. </li>
-  <li class="ok">Narrative drafting and revisisions. </li>
-  <li class="ok">Cover letter drafting. </li>
-</ul>
-
-#### For larger grants:
-<ul class="emoji-marker">
-  <li class="no">Consortium building. </li>
-  <li class="ok">Scheduling proposal partner brainstorm sessions. </li>
-  <li class="ok">Support with keeping project partners on schedule. </li>
-  <li class="ok">Narrative drafting and revisions. </li>
-  <li class="ok">Cover letter drafting. </li>
+  <li class="ok"> Contact Erika for personalized support.</li>
 </ul>
 
 ### Who benefits?
@@ -144,13 +162,14 @@ Click on the icons below to jump to each topic or scroll down.
   <li class="pointright">Time-constrained scientists and PIs. </li>
   <li class="pointright">Start-ups and NGOs. </li>
   <li class="pointright">Early-career researchers. </li>
+  <li class="pointright">Consortia interested in improving their proposals prior to submission/resubmission. </li>
 </ul>
 
 
 ### Learn More About These Services
-* <a href="../../posts/grant-writing-and-consulting.html">Deep dive into Erika's grant writing and consulting services</a>
+* 👉 <a href="../../posts/grant-writing-and-consulting.html">Deep dive into Erika's grant writing and consulting services</a>
 * <a href="https://medium.com/write-your-world/the-grant-writing-misconception-blocking-peoples-success-5e92d230ebec">The grant writing misconception blocking people's success</a>
-* <a href="../../blog/writing-tips/">Grant writing tips</a>
+* <a href="../../blog/writing-tips/">Grant writing tips and news.</a>
 
 <br />
 
