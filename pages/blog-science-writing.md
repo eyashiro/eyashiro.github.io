@@ -14,6 +14,14 @@ header: no
 <div class="row">
 
   <div class="medium-4 column">
+    <p style="font-size:0.8em">SCIENCE COMMUNICATION</p>
+    <a href="https://www.linkedin.com/pulse/can-fruit-flies-tell-something-microbiome-resilience-soledad-gurovic-l0jcf/"><img src="../../images/260209_microbiomes-flies_thumbnail.jpg"></a>
+    <h3><a href="https://www.linkedin.com/pulse/can-fruit-flies-tell-something-microbiome-resilience-soledad-gurovic-l0jcf/">Can fruit flies tell something about microbiome resilience?</a></h3>
+    <p>By Erika Yashiro & Soledad Gurovic <br /> (9-Feb-2026)</p>
+    <p>In this article, I sit down with Erika, a scientific writer with hands-on experience in microbiome research, to unpack what resilience means from a scientific perspective.<br /></p>
+  </div>
+
+  <div class="medium-4 column">
     <p style="font-size:0.8em">MEDICAL WRITING & COMMUNICATION</p>
     <a href="https://medium.com/science-spectrum/what-are-gut-probiotics-and-why-dont-they-always-work-47f65311103c"><img src="../../images/251017_Probiotics_thumbnail.png"></a>
     <h3><a href="https://medium.com/science-spectrum/what-are-gut-probiotics-and-why-dont-they-always-work-47f65311103c">What Are Gut Probiotics And Why Don’t They Always Work?</a></h3>
@@ -29,7 +37,11 @@ header: no
     <p>By Erika (7-May-2025)</p>
     <p><i>Crotalaria cunninghamii</i> is a plant with bird-shaped flowers, but guess who its closest partners are.</p>
   </div>
+</div>
 
+<br />
+
+<div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em">MEDICAL WRITING & COMMUNICATION</p>
     <a href="https://medium.com/@eyashiro/how-the-gut-microbiome-influences-prediabetes-development-2-1621d0eed39a"><img src="../../images/250416_prediabetes-gut-microbiome-2_thumbnail.jpg"></a>
@@ -38,12 +50,6 @@ header: no
     <p><b>Lifestyle Interventions and their Impact on the Gut Microbiome</b> <br />Read about the evidence that backs your doctor’s recommendations.</p>
   </div>
 
-
-</div>
-
-<br />
-
-<div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em">MEDICAL WRITING & COMMUNICATION</p>
     <a href="https://medium.com/@eyashiro/how-the-gut-microbiome-influences-prediabetes-development-1-7542a3f48ece"><img src="../../images/250415_prediabetes-gut-microbiome_thumbnail.jpg"></a>
@@ -59,7 +65,11 @@ header: no
     <p>By Erika (18-Mar-2025)</p>
     <p>How important are they?</p>
   </div>
+</div>
 
+<br />
+
+<div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em">SCIENTIFIC RESEARCH IN PLAIN ENGLISH</p>
     <a href="https://medium.com/curie-co/how-aware-and-concerned-are-people-about-plastic-pollution-6607c07c0e1b"><img src="../../images/250113_awareness-about-plastic-pollution_thumbnail.jpg"></a>
@@ -67,11 +77,6 @@ header: no
     <p>By Erika (14-Jan-2025)</p>
     <p>Teaching you how to think like a researcher with a case study in Portugal</p>
   </div>
-</div>
-
-<br />
-
-<div class="row">
 
   <div class="medium-4 column">
     <p style="font-size:0.8em">SCIENTIFIC RESEARCH IN PLAIN ENGLISH</p>
@@ -89,6 +94,12 @@ header: no
     <p><b></b> <br /></p>
   </div>
 
+
+</div>
+
+<br />
+
+<div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em"></p>
     <a href=""><img src=""></a>
