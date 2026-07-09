@@ -1,7 +1,7 @@
 ---
 #layout: page
 layout: page-fullwidth
-title: "Resources: Science and Medical writing"
+title: "Resources: Science and Medical Writing"
 #subheadline: ""
 #teaser: ""
 permalink: "/blog/science-writing/"
