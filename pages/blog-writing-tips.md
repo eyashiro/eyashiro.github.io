@@ -39,7 +39,7 @@ header: no
   <div class="medium-4 column">
     <a href="https://medium.com/write-a-catalyst/imposter-syndrome-in-grant-writing-d04b23ab752c"><img src="../../images/251209_imposter-syndrome-in-grant-writing_thumbnail.jpg"></a>
     <h3><a href="https://medium.com/write-a-catalyst/imposter-syndrome-in-grant-writing-d04b23ab752c">Imposter Syndrome in Grant Writing</a></h3>
-     <h4><i>⭐ Boosted by the Medium!! ⭐</i></h4>
+     <h4><i>⭐ Boosted by Medium!! ⭐</i></h4>
      <p>By Erika (16-Dec-2025)</p>
     <p>A struggle people often face alone.</p>
   </div>
