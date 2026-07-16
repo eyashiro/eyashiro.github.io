@@ -16,7 +16,7 @@ header: no
     <p style="font-size:0.8em">SCIENCE COMMUNICATION</p>
     <a href="https://medium.com/activated-thinker/theres-one-kind-of-strawberry-in-my-garden-that-s-almost-always-sweeter-than-the-rest-48f76b6acf11?sharedUserId=eyashiro"><img src="../../images/260611_Strawberry-in-garden_thumbnail.jpg"></a>
     <h3><a href="https://medium.com/activated-thinker/theres-one-kind-of-strawberry-in-my-garden-that-s-almost-always-sweeter-than-the-rest-48f76b6acf11?sharedUserId=eyashiro">There’s one kind of strawberry in my garden that’s almost always sweeter than the rest.</a></h3>
-    <p>By Erika Yashiro & Soledad Gurovic <br /> (19-Jun-2026)</p>
+    <p>By Erika Yashiro <br /> (19-Jun-2026)</p>
     <p>I can usually spot it before I even start berry picking.<br /></p>
   </div>
 
