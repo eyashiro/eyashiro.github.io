@@ -5,7 +5,7 @@ subheadline: "Life Sciences Research Support"
 #teaser: ""
 permalink: "/posts/perfect-writing-doesnt-necessarily-make-you-shine-in-grant-writing-but-clarity-does"
 header:
-    image: "260708_learn-about-grant-writing3.jpg"
+    image: "260719_learn-about-perfect-grant-writing3.jpg"
     background-color: "#fff6d4"
 ---
 
