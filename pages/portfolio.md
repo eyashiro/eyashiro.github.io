@@ -53,7 +53,25 @@ A chronological summary of my professional journey, including my education and c
     <br />
   </div>
 
-  <div>
+  <div class="medium-4 column">
+    <a href="../../posts/grant-writing-and-consulting.html"><img src="../images/portfolio-grant-writing2.jpg" class="center"></a>
+    <br />
   </div>
 </div>
 </div>
+
+<div class="row">
+  <div class="medium-4 column">
+    <a href="../../blog/science-writing/index.html"><img src="../images/portfolio-translating-science.jpg" class="center"></a>
+    <br />
+  </div>
+
+  <div class="medium-4 column">
+    <a href="../../blog/writing-tips/index.html"><img src="../images/portfolio-educational-writing.jpg" class="center"></a>
+    <br />
+  </div>
+
+  <div class="medium-4 column">
+  </div>
+</div>
+

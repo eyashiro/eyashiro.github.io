@@ -59,8 +59,8 @@ My grant writing services will help you increase your chances of securing compet
 
 #### Credentials
 **My early track record** as a research scientist includes successfully funded grants from the European Commission's FP7 Marie Curie IIF program, the Agassiz Foundation, and other small and medium grants, as well as contributions to a USDA Hatch proposal. Back then, my success rate ~50%. <br />
-**Since 2025**, I've returned to the grant-writing scene and have been offering my expertise to help scientists and innovators develop attractive, targeted proposals. So far, I've worked on a number of EU Horizon and simliarly high-tiered grant proposals. <br />
-In 2025, I helped clients secure € 6,000,000.
+**In 2025**, I returned to the grant-writing scene and have been offering my expertise to help scientists and innovators develop attractive, targeted proposals. So far, I've worked on a number of EU Horizon and simliarly high-tiered grant proposals, as well as smaller foundation applications. <br />
+Since 2025, I've helped clients secure over € 10,000,000.
 
 #### Tailored support
 We'll discuss your project needs and vision, clarify the details of the narrative, and develop the proposal(s) via iterative feedback so that the final product(s) reflect your vision. <br />

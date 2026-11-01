@@ -195,22 +195,24 @@ Click on the icons below to jump to each topic or scroll down.
 ## Science Communication
 ### Value:
 <ul class="emoji-marker">
-  <li class="lightbulb">Transform complex science into clear, accurate, and engaging writing. </li>
+  <li class="lightbulb">Translate complex science into clear, accurate, and engaging writing. </li>
   <li class="lightbulb">Expert editing and proofreading for manuscripts and other documents to improve clarity, correctness, and impact. </li>
 </ul>
 
 ### Types of Deliverables:
 <ul class="emoji-marker">
   <li class="ok">For-the-public, plain-language summaries of technical reports and manuscripts. </li>
+  <li class="ok">Documents and articles written in target audience/stakeholder-friendly language. </li>
   <li class="ok">Press-friendly science web articles and outreach pieces. </li>
   <li class="ok">Editing and proofreading for STEM and clinical science documents (manuscripts, theses, reports, grant sections, etc.) </li>
+  <li class="ok">Professional online biographies and technical website content translated into visitor-friendly narratives. </li>
 </ul>
 
 ### Who Benefits:
 <ul class="emoji-marker">
-  <li class="pointright">Organizations needing public-facing content. </li>
-  <li class="pointright">Researchers who want to share their work to broader audiences. </li>
-  <li class="pointright">Non-native English authors who want polished, AI-free, impactful documents. </li>
+  <li class="pointright">Organizations needing public-facing or stakeholder-targeted content. </li>
+  <li class="pointright">Researchers who want to share their work or professional profiles to broader audiences. </li>
+  <li class="pointright">Non-native English-speaking authors who want polished, AI-free, impactful documents. </li>
 </ul>
 
 ### Learn More About These Services
