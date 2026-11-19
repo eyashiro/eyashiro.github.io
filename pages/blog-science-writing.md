@@ -14,6 +14,14 @@ header: no
 <div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em">SCIENCE COMMUNICATION</p>
+    <a href="../../posts/2026-10-23-scrawny-little-garden-blueberries-that-tasted-better-than-the-store-bought-ones.html"><img src="../../images/261023_blueberries_thumbnail.jpg"></a>
+    <h3><a href="../../posts/2026-10-23-scrawny-little-garden-blueberries-that-tasted-better-than-the-store-bought-ones.html">The Scrawny Little Garden Blueberries That Tasted Better Than the Store-Bought Ones</a></h3>
+    <p>By Erika Yashiro (23-Oct-2026)</p>
+    <p>There is actually science behind why this can happen.<br /></p>
+  </div>
+
+  <div class="medium-4 column">
+    <p style="font-size:0.8em">SCIENCE COMMUNICATION</p>
     <a href="https://medium.com/activated-thinker/theres-one-kind-of-strawberry-in-my-garden-that-s-almost-always-sweeter-than-the-rest-48f76b6acf11?sharedUserId=eyashiro"><img src="../../images/260611_Strawberry-in-garden_thumbnail.jpg"></a>
     <h3><a href="https://medium.com/activated-thinker/theres-one-kind-of-strawberry-in-my-garden-that-s-almost-always-sweeter-than-the-rest-48f76b6acf11?sharedUserId=eyashiro">There’s one kind of strawberry in my garden that’s almost always sweeter than the rest.</a></h3>
     <p>By Erika Yashiro (19-Jun-2026)</p>
@@ -28,6 +36,11 @@ header: no
     <p>In this article, I sit down with Erika, a scientific writer with hands-on experience in microbiome research, to unpack what resilience means from a scientific perspective.<br /></p>
   </div>
 
+</div>
+
+<br />
+
+<div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em">MEDICAL WRITING & COMMUNICATION</p>
     <a href="https://medium.com/science-spectrum/what-are-gut-probiotics-and-why-dont-they-always-work-47f65311103c"><img src="../../images/251017_Probiotics_thumbnail.png"></a>
@@ -36,11 +49,6 @@ header: no
     <p>Some of the many reasons why probiotics are great but not always silver bullets.<br /></p>
   </div>
 
-</div>
-
-<br />
-
-<div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em">SCIENCE COMMUNICATION</p>
     <a href="https://medium.com/science-spectrum/plants-that-look-like-birds-and-nourish-the-earth-d24281ce16a4"><img src="../../images/250506_Green-birdflower_thumbnail.jpg"></a>
@@ -57,6 +65,11 @@ header: no
     <p><b>Lifestyle Interventions and their Impact on the Gut Microbiome</b> <br />Read about the evidence that backs your doctor’s recommendations.</p>
   </div>
 
+</div>
+
+<br />
+
+<div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em">MEDICAL WRITING & COMMUNICATION</p>
     <a href="https://medium.com/@eyashiro/how-the-gut-microbiome-influences-prediabetes-development-1-7542a3f48ece"><img src="../../images/250415_prediabetes-gut-microbiome_thumbnail.jpg"></a>
@@ -64,11 +77,7 @@ header: no
     <p>By Erika (16-Apr-2025)</p>
     <p><b>Key Mechanisms Linking the Gut Microbiome to Prediabetes</b> <br />Scientific research has made great strides in understanding how the gut is involved in prediabetes. Read about the evidence that backs your doctor’s recommendations.</p>
   </div>
-</div>
-
-<br />
-
-<div class="row">
+  
   <div class="medium-4 column">
     <p style="font-size:0.8em">MEDICAL WRITING & COMMUNICATION</p>
     <a href="https://medium.com/@eyashiro/understanding-heart-murmurs-in-newborns-f4a4751c21ab"><img src="../../images/250317_heart-murmur.jpg"></a>
@@ -84,7 +93,11 @@ header: no
     <p>By Erika (14-Jan-2025)</p>
     <p>Teaching you how to think like a researcher with a case study in Portugal</p>
   </div>
+</div>
 
+<br />
+
+<div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em">SCIENTIFIC RESEARCH IN PLAIN ENGLISH</p>
     <a href="https://medium.com/@eyashiro/the-intertwined-nature-of-climate-change-and-microplastics-3416942d1725"><img src="../../images/241223_Climate change and microplastics_thumbnail.jpg"></a>
@@ -92,11 +105,15 @@ header: no
     <p>By Erika (23-Dec-2024)</p>
     <p>Two of the most pressing environmental issues of our time must be tackled together.</p>
   </div>
-</div>
 
-<br />
+  <div class="medium-4 column">
+    <p style="font-size:0.8em"></p>
+    <a href=""><img src=""></a>
+    <h3><a href=""></a></h3>
+    <p></p>
+    <p><b></b> <br /></p>
+  </div>
 
-<div class="row">
   <div class="medium-4 column">
     <p style="font-size:0.8em"></p>
     <a href=""><img src=""></a>

@@ -41,6 +41,7 @@ header:
 
 <h3><span style="color:gray">Why the word "grant" makes many people picture a narrower funding reality.</span></h3>
 
+<span style="color:gray">8 July, 2026</span>
 <br />
 
 The other day, I had a great conversation with a friend and fellow scientist. I told them that I'm a grant writer. And they said something to me that many other grant writers have probably heard before too, in some form or another.
