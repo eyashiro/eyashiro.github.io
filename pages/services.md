@@ -61,22 +61,28 @@ header:
 # Mission
 <div id="container">
 <b>Personalized solutions for individual needs.</b><br />
-Help you improve your productivity, make deadlines, and complete projects by allowing you to offload and delegate specialized tasks and projects to me.
+You will receive the help you needed to improve your productivity, make deadlines, and complete projects.
 </div>
 <br />
 
 # How It Works
 
+#### When there are deliverables
 1. **Discovery:** We clarify goals, scope, timeline, rates, and confidentiality requirements.
 2. **Proposal:** You get a clear plan with deliverables and milestones.
 3. **Communication**: We regularly communicate updates and discuss the work in progress.
-4. **Delivery:** You receive deliverables in a timely fashion accompanied by a detailed report.
+4. **Delivery:** You receive deliverables in a timely fashion accompanied by a detailed report (when relevant).
 5. **Follow-through:** Edits, revisions, and final polish as needed.
+
+#### For consultation-based services
+1. **Discovery:** We clarify goals, scope, timeline, rates, and confidentiality requirements.
+2. **Meetings:** Consultation meetings will be pre-scheduled and pre-paid sessions of 60-90 minutes.
 
 <br />
 
 # Types of Services
-Click on the icons below to jump to each topic or scroll down.
+Click on the icons below to jump to each topic or scroll down. <br />
+(For advisory support, consultations will be tailored to each person's needs.)
 
 <a href="../contact/index.html">Contact me</a> to discuss your needs even if they're not listed below. We all have different problems that need solving.
 <br /><br />
@@ -202,16 +208,18 @@ Click on the icons below to jump to each topic or scroll down.
 ### Types of Deliverables:
 <ul class="emoji-marker">
   <li class="ok">For-the-public, plain-language summaries of technical reports and manuscripts. </li>
-  <li class="ok">Documents and articles written in target audience/stakeholder-friendly language. </li>
+  <li class="ok">Documents, reports, and articles written in target audience/stakeholder-friendly language. </li>
   <li class="ok">Press-friendly science web articles and outreach pieces. </li>
   <li class="ok">Editing and proofreading for STEM and clinical science documents (manuscripts, theses, reports, grant sections, etc.) </li>
-  <li class="ok">Professional online biographies and technical website content translated into visitor-friendly narratives. </li>
+  <li class="ok">Professional online bios and technical website content translated into visitor-friendly content. </li>
 </ul>
 
 ### Who Benefits:
 <ul class="emoji-marker">
   <li class="pointright">Organizations needing public-facing or stakeholder-targeted content. </li>
   <li class="pointright">Researchers who want to share their work or professional profiles to broader audiences. </li>
+  <li class="pointright">Organizations needing support drafting technical documents for internal communication. </li>
+  <li class="pointright"> Organizations needing help preparing newsletters. </li>
   <li class="pointright">Non-native English-speaking authors who want polished, AI-free, impactful documents. </li>
 </ul>
 

@@ -76,13 +76,42 @@ homepage: true
 
   <h2>Meet Dr. Erika Yashiro </h2>
   <p>
-  &#10132; Independent life scientist specializing in science communication, grant writing, and research support. <br />
+  &#10132; Life Sciences Consultant specializing in science communication, grant writing, and research support. <br />
+  &#10132; I help translate the complex concepts of science and innovation into narratives that are tailored to your target audiences. <br />
   &#10132; I help you obtain grants, publish with clarity, meet deadlines, and finish stalled projects. <br />
   Click on <a href="../../posts/my-story_mission-purpose-and-value/index.html">Read My Story</a> to learn more.</p>
 
   <h2>Proven Expertise</h2>
-  <p>20+ years of experience across research, operational bionformatics, and high-impact writing, with testimonials from universities, research institutes, and industry collaborators.</p>
+  <p>20+ years of experience across research, operational bionformatics, and high-impact writing, with testimonials from universities, research institutions, and industry collaborators.</p>
 
+  <h2> What can Erika solve?</h2>
+  <p>
+  (Click on the icons below to expand.)
+  </p>
+  <details>
+    <summary><h4>You're a Team struggling with the following types of problems:  👇</h4>
+    </summary>
+  <p>
+  <b>1)</b> "We have a grant proposal draft, but we need someone to help make it clear, structured, and reviewer-ready." <br />
+  <b>2)</b> "A research paper / technical report is about to get published. We need someone to translate it into an accurate public story." <br />
+  <b>3)</b> "Our grant report is due, but the information is still scattered across the programme/consortium, and the report needs to be drafted." <br />
+  <b>4)</b> "We need a plain language summary for our stakeholders without losing the science and technical accuracy."   <br />
+  <b>5)</b> "Which grants will suit our organisation's work?" <br />
+  <b>6)</b> "Our programme's progress needs to be communicated. We need someone to help consolidate information from the collaborators for our newsletter." <br />
+  <b>7)</b> "Our online professional biographies are too technical. We need someone to make it reader-friendly." <br />
+  <b>8)</b> "We have other problems you might be able to solve."</p>
+  </details>
+  
+  <details>
+  <summary><h4>You're an Individual struggling with the following types of problems:  👇</h4>
+  </summary>
+  <p>
+  <b>1)</b> "My online professional biography is too technical. I need someone to make it reader-friendly." <br />
+  <b>2)</b> "I'm job searching. I need advice on how to use LinkedIn better." <br />
+  <b>3)</b> "I'm not confident in my writing skills. I need advice on how to structure my thesis or fellowship application." <br />
+  <b>4)</b> "I have other problems you might be able to solve."
+  </p>
+  </details>
 <br />
 
 <div class="mar">
@@ -129,7 +158,7 @@ homepage: true
     <img src="../images/SupAgro.png" class="center">
   </div>
   <div class="small-4 medium-4 column">
-    <img src="../images/mindrift.png" class="center">
+    <img src="../images/idc.png" class="center">
   </div>
   <div class="small-4 medium-4 column">
     <img src="../images/MogoEdit2.png" class="center">
